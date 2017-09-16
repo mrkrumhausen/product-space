@@ -10,8 +10,13 @@ Rather than focusing on a list of features for a product, the JTBD framework for
 
 When you see customers piecing together solutions themselves, these are great clues for innovation.
 
+
+### What isn’t a Job to be Done
+- A big mistake is thinking of a Job to be Done as an activity or task. Examples include *store and retrieve music* or *listen to music*. These are not Jobs; rather, they are tasks and activities — which means they describe how you use a product or what you do with it
+
+
 ### a better me
-a Job to be Done describe the “better me.” It answers the question, “How are you better since you started using [product]?”
+Instead a Job to be Done describe the “better me.” It answers the question, “How are you better since you started using [product]?”
 
 *Upgrade your user, not your product. Don’t build better cameras — build better photographers*.
 
@@ -27,7 +32,7 @@ The emphasis on a struggle for progress is why this JTBD model often makes use o
 
 
 ### Job story
-All About Context and Causality
+All about context and causality.
 
 1. Refine A Situation By Adding Contextual Information
 1. Job Stories Come From Real People Not Personas
@@ -47,5 +52,5 @@ When I’m in a rush, starving, need something I can eat with one hand while ‘
 - https://www.nngroup.com/articles/personas-jobs-be-done/
 - https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
 - https://jtbd.info/how-might-we-describe-a-customer-job-65aa5b9a100e
-https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
-https://blog.intercom.com/using-job-stories-design-features-ui-ux/
+- https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
+- https://blog.intercom.com/using-job-stories-design-features-ui-ux/
