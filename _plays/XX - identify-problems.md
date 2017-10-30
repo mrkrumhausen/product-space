@@ -1,3 +1,8 @@
+---
+play_number: ?
+title: Problem/challenges identification session
+---
+
 # Problem/challenges identification session
 Goal: to uncover problems
 
