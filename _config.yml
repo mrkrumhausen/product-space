@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: /product-playbook
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -39,8 +39,8 @@ sass:
     style: :compressed
 
 # Jekyll settings
+remote_theme: seb/doks
 layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
-name: The Product Playbook
