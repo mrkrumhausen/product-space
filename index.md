@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: The Product Playbook
-description: A Playbook of Product Management Techniques. It's very much work in progress and I encourage you to critique it and contribute ideas and suggestions.'
+description: A Playbook of product management techniques. It's very much work in progress and I encourage you to critique and contribute ideas and suggestions
 buttons:
     - content: Let's get started
       url: '/getting-started'
