@@ -1,1 +1,45 @@
-theme: jekyll-theme-cayman
+# Theme settings
+doks:
+    baseurl:
+    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text: Product Playbook
+            image:
+        nav:
+            - item_name: Plays
+              item_url: '/plays'
+            - item_name: Cheats
+              item_url: '/cheats'
+    footer:
+        content:
+            logo:
+                text: Product Playbook
+                image:
+            copyright: Copyright &copy; 2018. Sebastian Krumhausen <br>All rights reserved.
+        social_list:
+            - network_name: github
+              profile_url: 'http://github.com/mrkrumhausen/product-playbook'
+            - network_name: linkedin
+              profile_url: 'https://linkedin.com/in/krumhausen/'
+        #     - network_name: twitter
+        #       profile_url: '#'
+        #     - network_name: instagram
+        #       profile_url: '#'
+        #     - network_name: youtube
+        #       profile_url: '#'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
