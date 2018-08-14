@@ -38,11 +38,11 @@ Make sure your quarterly roadmap is up to date and you have broken it down into 
 - Review the backlog and prioritise the user stories based on urgency.
 
 ## Daily standup
-> At 4:30pm, IFTTT sends a message to the #stand-up channel and the team updates everyone on their accomplishments for the day and focus for tomorrow. This allows us to share links to mockups or tickets we are working on and gives the team time to process blocking issues more easily.
+At 4:30pm, Our slack plugin sends a message to the #stand-up channel and the team updates everyone on their accomplishments for the day and focus for tomorrow. This allows us to share links to mockups or tickets we are working on and gives the team time to process blocking issues more easily.
 
-- Today: A list of what you got done today.
-- Tomorrow: A list of what you plan to work on tomorrow.
-- Blocking: A list of blocking issues and @-replies to anyone who can help
+- **Today**: A list of what you got done today.
+- **Tomorrow**: A list of what you plan to work on tomorrow.
+- **Blocking**: A list of blocking issues and @-replies to anyone who can help
 
 ## Weekly Recaps
 Send email digest of the previous week to our team and advisors.
@@ -76,7 +76,7 @@ We keep a #reading-list Slack channel. If anything pops up there that’s worth 
 ## Planning
 ## Demoday
 ### Release notes
-> A standard SCRUM sprint is two weeks with one or more release. Sticking to a template will allow you to work faster and more efficient.
+A standard SCRUM sprint is two weeks with one or more release. Sticking to a template will allow you to work faster and more efficient.
 - tl;dr: Sometimes readers just want a quick summary.
 - Released: A more detailed explanation of each feature, where to find it, how to use it, etc.
 - Fixed/Updated: If bugs are part of the release, quick and to-the-point notes are essential to communicate.
@@ -85,18 +85,20 @@ We keep a #reading-list Slack channel. If anything pops up there that’s worth 
 ## Retro (Optional)
 Run a retrospective at the end of a sprint. It is a forum for the team to come together and discuss successes, failures, learnings, and note down anything that will be useful in the future. It's a cathartic exercise designed to help teams and companies continuously learn and improve.
 
-> *NB It's worth nothing that retrospectives are not an appropriate platform for personal feedback. This should be done separately in one-to-one sessions*.
-- Continue: Things that went well
+*NB It's worth nothing that retrospectives are not an appropriate platform for personal feedback. This should be done separately in one-to-one sessions*.
+
+**Continue: Things that went well**
 -		What went well?
 -		Why did it go well?
 -		How do we keep encouraging that?
 
-- Stop: Things that didn't go so well:
+**Stop: Things that didn't go so well**
 -		What went badly?
 -		Why did it go badly?
 -		How do we avoid repeating that?
 
-- Start: …
+**Start:**
+- What should we start doing?
 
 ## Concluding notes
 
