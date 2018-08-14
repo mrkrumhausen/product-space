@@ -41,5 +41,5 @@ Some of the companies that openly share how they develop product are:
 
 
 ## Contributing to the Product Playbook
-* [Play Format](https://github.com/mrkrumhausen/product-playbook/blob/master/template.md)
-* [Contribution Guidelines](https://github.com/mrkrumhausen/product-playbook/blob/master/CONTRIBUTING.md)
+* [Play Format](/template.md)
+* [Contribution Guidelines](/CONTRIBUTING.md)
