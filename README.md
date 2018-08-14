@@ -1,4 +1,4 @@
-# The Product Space
+# The Product Space 🚀
 A Playbook of Product Management Techniques
 
 ## Intro
@@ -50,6 +50,6 @@ Some of the companies that openly share how they develop product are:
 * [Basecamp / 37signals - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf)
 
 
-## Contributing to The Product Space 🚀
+## Contributing to The Product Space
 * [Play Format](/template.md)
 * [Contribution Guidelines](/CONTRIBUTING.md)
