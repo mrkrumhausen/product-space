@@ -1,8 +1,8 @@
-# The Product Playbook
+# The Product Space
 A Playbook of Product Management Techniques
 
 ## Intro
-The product playbook give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
+The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
 —
 
 ## The Plays
@@ -11,12 +11,13 @@ The product playbook give people plays they can apply to specific moments of the
 * (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
 * (WIP) [OKRs](/plays/okr.md)
 
-### Understanding and Kick-off
+### Understanding and kick-off
 * (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
 * (WIP) [Project Brief](/plays/project-brief.md)
 * (WIP) [Working Backwards](/plays/working-backwards.md)
 * (TODO) Design Sprint
-* (TODO) Lean Product Plan
+* (WIP) [Lean Product Plan](/plays/lean-product-plan.md)
+* (WIP) [Validate your startup idea](/plays/validate-startup-idea.md)
 
 ### Building the right things
 * (WIP) [Run Experiments](/plays/run-experiments.md)
@@ -49,6 +50,6 @@ Some of the companies that openly share how they develop product are:
 * [Basecamp / 37signals - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf)
 
 
-## Contributing to the Product Playbook
+## Contributing to The Product Space 🚀
 * [Play Format](/template.md)
 * [Contribution Guidelines](/CONTRIBUTING.md)

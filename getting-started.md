@@ -27,7 +27,7 @@ page_nav:
         content: Next page
         url: '#'
 ---
-## What is the Product Playbook
+## What is the Product Space 🚀
 A library of product management advice from different frameworks, blog posts, resources, books, products, and much more.
 
 ## Why playbook
@@ -48,5 +48,5 @@ All notable changes to this project will be documented here. This project adhere
 
 ### [v0.0.1-alpha] - 2018-08-14
 - First couple of plays
-- Doks theme Jekyll theme
-- Readme, contribution and play template
+- Doks Jekyll theme
+- Readme, contribution guidelines and play template

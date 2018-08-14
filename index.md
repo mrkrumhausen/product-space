@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: The Product Playbook
+title: The Product Space 🚀
 description: A Playbook of product management techniques. It's very much work in progress and I encourage you to critique and contribute ideas and suggestions
 buttons:
     - content: Let's get started

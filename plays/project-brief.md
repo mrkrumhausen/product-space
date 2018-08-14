@@ -10,7 +10,7 @@ description: Use the brief at the outset of a project or product cycle, when a d
 
 # Author box
 <!-- author:
-    title: Tina Siig
+    title: Sebastian Krumhausen
     title_url: '#'
     external_url: true
     description: Author description -->
@@ -38,11 +38,15 @@ To get from the idea to the actual description of a defined and sustainable proj
 ## Why write a Project brief?
 It will help you conduct a well-controlled project which is carried out within the agreed scope, time and budget.
 
+Leaders owe their teams an answer to the same question that young children often ask their parents before setting out on a long drive: “Where are we going and how are we going to get there?” In other words, what is the goal and how are we going to measure progress along the way?
+
+
 ## 1. Project goal
 *Describe the goal of the project. Imagine you could print out in big letters, neon light, blinking, one or two sentences for why we need to do this, what is it we are trying to achieve, what would you then write*? 
 
 ### 1.1 KPIs
-How do we track the success of the completed project?
+What does success look like? If you were to set up a scoreboard to track success over time, what would it measure?
+
 
 ## 2. Project Description
 *In this chapter you describe briefly what we currently have (A) and what we are moving to (B) and what's the work we need to do in the project, to move from A to B.*
@@ -86,5 +90,6 @@ Could be a high-level timeline with associated milestones or a in a more agile s
 ## Concluding notes
 
 ## Resources
+Tina Siig’s project brief template
 
 ## Related plays

@@ -1,10 +1,10 @@
 # Theme settings
 doks:
-    baseurl: /product-playbook
+    baseurl: /
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Product Playbook
+            text: The Product Space 🚀
             image:
         nav:
             # - item_name: Plays
@@ -14,9 +14,9 @@ doks:
     footer:
         content:
             logo:
-                text: Product Playbook
+                text: The Product Space 🚀
                 image:
-            copyright: Copyright &copy; 2018. Sebastian Krumhausen <br>All rights reserved.
+            copyright: Copyright &copy; 2018. Krumhausen Consulting <br>All rights reserved.
         social_list:
             - network_name: github
               profile_url: 'http://github.com/mrkrumhausen/product-playbook'
@@ -29,7 +29,7 @@ doks:
         #     - network_name: youtube
         #       profile_url: '#'
     google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+        tracking_code: UA-10127534-3
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
 

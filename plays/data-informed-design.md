@@ -34,6 +34,8 @@ It’s a systematic approach to the development and evolution of products and se
 ## Why use a Data Informed Design Approach
 Decisions for design should be informed by data
 
+The best thing about analytics and data is that it can show us what people do on their own, but it doesn’t tell us about the users context, motivations, and intent.
+
 ## Use analytics 
 Google Analytics can tell us what happens when a user comes to the pages directly. We also need to understand happens when a user comes to that page through other pages, and what happens after he takes an action to download one ebook.
 
