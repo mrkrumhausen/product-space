@@ -30,9 +30,16 @@ page_nav:
 ---
 Below is a list of team rituals that are beneficial for running a development team.
 
-## Review the product roadmap and backlog
+## Update Product backlog and roadmap
 Make sure your quarterly roadmap is up to date and you have broken it down into smaller product or experiment briefs
 - Review the backlog and prioritise the user stories based on urgency.
+
+**Populate the backlog**
+At this stage the user story only needs to describe the feature in broad brush strokes
+
+**Refining the backlog**: Fleshing the stories out. Refine the backlog with, as a minimum, the ‘Three Amigos’ – the Product Owner, a developer and a (UX) designer.
+- This should be done as part of the discover track in [dual-track scrum]
+
 
 ## Weekly recaps
 Send email digest of the previous week to our team and advisors.
@@ -64,10 +71,27 @@ At 4:30pm, Our slack plugin sends a message to the #stand-up channel and the tea
 - **Tomorrow**: A list of what you plan to work on tomorrow.
 - **Blocking**: A list of blocking issues and @-replies to anyone who can help
 
-### Grooming
-### Planning
-### Demo day
-The sprint demo is invaluable for keeping stakeholders up to speed with the progress of product development. It allows them to feedback and discuss with possible amendments to the Product Backlog which would help to maximise value.
+### Grooming (optional)
+The objective of the *Backlog refinement meeting or Grooming session* is to get enough of the product backlog ready to comfortably populate the next sprint backlog.
+
+Backlog refinement is used to refine the items at the top of the backlog: Break them up into user stories that can be tackled in a single sprint, agree on acceptance criteria for those stories and, often, to estimate them (normally by attributing story points).
+
+**Estimating stories**: Planning poker to come! :)
+
+### Sprint planning
+Figure out how we actually do the work and agree the order we’ll work on it.
+- The whole team is required for sprint planning. It’s an opportunity to talk through the tasks required, challenge any previous assumptions, including estimates, and check that stories and acceptance criteria are really Ready for development.
+- It should be time boxed so that it doesn’t eat into the time needed for actually working on tasks. For a team working in 2 week sprints, expect planning to be no more than 4 hours.
+
+**Agree on the sprint backlog**: Allocate tokens (e.g. poker chips or matches) to each team member to represent the number of hours they have available in the sprint.
+
+**The sprint goal**: The sprint goal is set by the PO and is a short encapsulation of what the team has agreed to achieve during the sprint. Examples: *Build a responsive homepage with navigation menu and Twitter feed*.
+
+
+### Sprint Demo
+The sprint demo is invaluable for keeping stakeholders up to speed with the progress of product development. It allows them to feedback and suggest improvements that can added to the product backlog to maximise value.
+
+While demoing the sprint work, user stories provide a good framework to report on which work has been done and what remains to be done.
 
 #### Release notes
 A standard SCRUM sprint is two weeks with one or more release. Sticking to a template will allow you to work faster and more efficient.
@@ -98,5 +122,8 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 
 ## Resources
 [https://manifesto.co.uk/scrum-practice-sprint-demo/](https://manifesto.co.uk/scrum-practice-sprint-demo/)
+[https://manifesto.co.uk/scrum-sprint-planning/](https://manifesto.co.uk/scrum-sprint-planning/)
+[https://manifesto.co.uk/agile-concepts-product-backlog/](https://manifesto.co.uk/agile-concepts-product-backlog/)
 
 ## Related plays
+- [Dual-track scrum](plays/dual-track-scrum)

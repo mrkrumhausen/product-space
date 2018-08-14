@@ -47,6 +47,16 @@ When an important new customer signs up, I want to be notified, so I can start a
 
 When I’m in a rush, starving, need something I can eat with one hand while ‘on the go’, am not sure when the next time I’ll be able to eat, …
 
+### user stories
+
+As a _____ , I want to _____ , so I can _____ .
+
+Example:
+*As a tea drinker I want to pick up my tea by a handle, so that I don’t burn my hands*.
+
+User stories can be broken down if needed:
+- *As a tea drinker, I want my tea in a mug so that I can pick it up*.
+- *As a tea drinker, I want my mug to have a handle so that I don’t burn my hands*.
 
 ### References 
 - https://www.nngroup.com/articles/personas-jobs-be-done/

@@ -29,8 +29,6 @@ page_nav:
 
 ---
 
-Write your play below ...
-
 ## TITLE
 Write your intro here
 

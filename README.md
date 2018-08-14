@@ -9,28 +9,37 @@ The product playbook give people plays they can apply to specific moments of the
 ### Team management
 * [Dual Track Scrum](/plays/dual-track-scrum.md)
 * (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
-* (WIP) [OKRs](/master/plays/okrs.md)
+* (WIP) [OKRs](/plays/okr.md)
 
 ### Understanding and Kick-off
 * (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
 * (WIP) [Project Brief](/plays/project-brief.md)
-* (TODO) Working Backwards
+* (WIP) [Working Backwards](/plays/working-backwards.md)
 * (TODO) Design Sprint
 * (TODO) Lean Product Plan
 
 ### Building the right things
-* (WIP) [Run Experiments](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/run-experiments.md)
+* (WIP) [Run Experiments](/plays/run-experiments.md)
 * (TODO) Minimum ~~Viable~~ Lovable product: incl. adwords experiments
 
 ### Building
-* (TODO) Jobs-to-be-done and Job Canvas: How does it fit with user stories?
+* (TODO) Jobs-to-be-done, user stories and Job Canvas: How does it fit with user stories?
 * (TODO) Product Roadmap
 * (TODO) Trigger-model
 
-### Optimising
+### Optimising and growth
 * (TODO) Effective Google Ads campaigns
 * (TODO) SEO Guidelines
+* (WIP) [Pricing](/plays/pricing.md)
+* (TODO) FB organic and paid advertisement
 
+## Ideas for plays
+* Data-informed design 
+* Revenue estimation template
+* Scrum of Scrums
+* Customer Journey Mapping
+* Brainstorm Session
+* Content audit
 
 —
 ## Inspiration

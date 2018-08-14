@@ -48,4 +48,9 @@ grid_navigation:
       excerpt: Use the business model canvas to understand the complete picture of the business.
       cta: Read more
       url: '/plays/business-model-analysis'
+    - title: Working Backwards
+      excerpt: How amazon kicks of product development
+      cta: Read more
+      url: '/plays/working-backwards'
+
 ---
