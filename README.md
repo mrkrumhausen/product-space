@@ -7,13 +7,13 @@ The product playbook give people plays they can apply to specific moments of the
 
 ## The Plays
 ### Team management
-* [Dual Track Scrum](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/dual-track-scrum.md)
-* (WIP) [Product Management Rituals](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/product-management-rituals.md)
-* (WIP) [OKRs](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/okrs.md)
+* [Dual Track Scrum](/plays/dual-track-scrum.md)
+* (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
+* (WIP) [OKRs](/master/plays/okrs.md)
 
 ### Understanding and Kick-off
-* (TODO) [Business Model Analysis](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/business-model-analysis.md)
-* (WIP) [Project Brief](https://github.com/mrkrumhausen/product-playbook/blob/master/plays/project-brief.md)
+* (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
+* (WIP) [Project Brief](/plays/project-brief.md)
 * (TODO) Working Backwards
 * (TODO) Design Sprint
 * (TODO) Lean Product Plan
