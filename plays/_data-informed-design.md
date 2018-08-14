@@ -28,7 +28,8 @@ page_nav:
         url: '#'
 
 ---
-
+## What is data informed design
+It’s a systematic approach to the development and evolution of products and services.
 
 ## Why use a Data Informed Design Approach
 Decisions for design should be informed by data
@@ -61,9 +62,6 @@ Tools like Mouseflow, Clicktale, Hotjar, VWO, and Inspectlet include click, hove
 1. NB: A high bounce rate is not necessary a bad thing, it could mean users found what they need.
 1. A/B testing can then be used to compare different design versions and determine which one is more successful.
 
-
-## CONTENT HERE!
-Lorem ipsum
 
 ## Concluding notes
 

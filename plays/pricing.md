@@ -29,7 +29,7 @@ page_nav:
 
 ---
 
-## Pricing
+## What is Pricing?
 Write your intro here
 
 ## Why “Do something”

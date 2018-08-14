@@ -31,7 +31,7 @@ grid_navigation:
     - title: OKRs
       excerpt: Track the success of a project
       cta: Read more
-      url: '/plays/okrs'
+      url: '/plays/okr'
     - title: Product Management Rituals
       excerpt: Follow this simple framework and you will have the energy to strategise about the future of the product
       cta: Read more

@@ -34,7 +34,7 @@ The product playbook give people plays they can apply to specific moments of the
 * (TODO) FB organic and paid advertisement
 
 ## Ideas for plays
-* Data-informed design 
+* Data-informed design
 * Revenue estimation template
 * Scrum of Scrums
 * Customer Journey Mapping

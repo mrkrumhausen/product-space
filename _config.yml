@@ -7,10 +7,10 @@ doks:
             text: Product Playbook
             image:
         nav:
-            - item_name: Plays
-              item_url: '/plays'
-            - item_name: Cheats
-              item_url: '/cheats'
+            # - item_name: Plays
+            #   item_url: '/plays'
+            # - item_name: Cheats
+            #   item_url: '/cheats'
     footer:
         content:
             logo:

@@ -29,14 +29,14 @@ page_nav:
 
 ---
 
-## The Project Brief
+## The project brief
 A good application and project description must provide a clear picture that the project can be realised and run in a sustainable manner.
 
 To get from the idea to the actual description of a defined and sustainable project with clear phases, goals and concrete activities, a number of tools are available that the project manager and project group can benefit from.
 
 
-## Why write a Project Brief
-help you conduct a well-controlled project which is carried out within the agreed scope, time and budget.
+## Why write a Project brief?
+It will help you conduct a well-controlled project which is carried out within the agreed scope, time and budget.
 
 ## 1. Project goal
 *Describe the goal of the project. Imagine you could print out in big letters, neon light, blinking, one or two sentences for why we need to do this, what is it we are trying to achieve, what would you then write*? 
@@ -75,7 +75,7 @@ a breakdown of the deliverables
 ### 4.3 Relevant Stakeholders
 Other groups (or major stakeholders)
 
-## 5. Timelines
+## 5. Timeline
 ### 5.1 Overall project phases
 ### 5.2 High-level timeline
 Could be a high-level timeline with associated milestones or a in a more agile setting, sprints.
