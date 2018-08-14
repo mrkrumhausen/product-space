@@ -34,11 +34,12 @@ Write your play below ...
 ## TITLE
 Write your intro here
 
-## When to Run
+## Why “Do something”
 
-## Why to Run
+## CONTENT HERE!
+Lorem ipsum
 
-## How to Run
+## Concluding notes
 
 ## Resources
 

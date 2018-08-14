@@ -22,7 +22,11 @@ micro_nav: true
 
 
 ---
-## What
+
+## What is Scrum?
+Scrum is an iterative approach that focuses on delivering small units of value and allows requirements to change throughout the project’s lifecycle
+
+## What is Dual-track scrum?
 Dual-Track Scrum advocates that the product owner/manager, the lead developer, and the UX/UI person constantly spend their time in the discovery space, while the rest of the team concentrates their efforts in delivery. Successful findings from the discovery track are then represented as user stories and added to product backlog.
 
 There are two tracks, each with a different focus but with one aim: to build products customers ❤️

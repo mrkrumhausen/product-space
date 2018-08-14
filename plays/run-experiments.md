@@ -83,9 +83,14 @@ You can start with a simple proof-of-concept experiment (PoC). These types of ex
 **fake door**
 ...
 
+**AB Testing**
+The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company's guiding metrics (or Overall Evaluation Criteria, OEC).
 
 ## Concluding notes
-*…*
+Experimentation is typically run when teams have enough traffic to empirically and scientifically test whether a change will produce the intended effects with a cohort of real users. Teams using experimentation should ensure they have adequate levels of traffic, they understand the problem they are trying to solve and they have ensured the impact of their changes can and should be measured through an experiment.
 
-## References
+
+## Resources
 - [https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e](https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e)
+
+## Related plays
