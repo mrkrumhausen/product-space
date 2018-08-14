@@ -24,10 +24,18 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: Business Model Analysis
-      excerpt: Use the business model canvas to understand the complete picture of the business.
+    - title: Project Brief
+      excerpt: Use the brief at the outset of a project or product cycle, when a development team needs to rally behind a common goal and share a mental model of the problem they are trying to solve.
       cta: Read more
-      url: '/plays/business-model-analysis'
+      url: '/plays/project-brief'
+    - title: OKRs
+      excerpt: Track the success of a project
+      cta: Read more
+      url: '/plays/okrs'
+    - title: Product Management Rituals
+      excerpt: Follow this simple framework and you will have the energy to strategise about the future of the product
+      cta: Read more
+      url: '/plays/product-management-rituals'
     - title: Dual-Track Scrum
       excerpt: A framework in which a product development team continuously discover what their customers’ needs are, and validates them using evidence and prototypes.
       cta: Read more
@@ -36,4 +44,8 @@ grid_navigation:
       excerpt: Use experiments to understand if something is a good idea (and learn from this understanding).
       cta: Read more
       url: '/plays/run-experiments'
+    - title: Business Model Analysis
+      excerpt: Use the business model canvas to understand the complete picture of the business.
+      cta: Read more
+      url: '/plays/business-model-analysis'
 ---
