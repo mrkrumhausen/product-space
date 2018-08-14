@@ -49,7 +49,7 @@ grid_navigation:
       cta: Read more
       url: '/plays/business-model-analysis'
     - title: Working Backwards
-      excerpt: How amazon kicks of product development
+      excerpt: How Amazon kicks of product development
       cta: Read more
       url: '/plays/working-backwards'
 

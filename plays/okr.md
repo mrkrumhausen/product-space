@@ -58,7 +58,7 @@ Don't think of OKRs as a proxy for performance reviews for individual employees.
 
 ## Resources
 - [https://weekdone.com/resources/objectives-key-results](https://weekdone.com/resources/objectives-key-results)
-- [GV's guide to OKRs][gv-guide] — (talk and blog post).
+- [GV's guide to OKRs][gv-guide]
 - [re:Work with Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 
 [gv-guide]: https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfwiuenot

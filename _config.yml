@@ -14,9 +14,9 @@ doks:
     footer:
         content:
             logo:
-                text: The Product Space 🚀
+                text: The Product Space 🚀 - A Product Management Playbook
                 image:
-            copyright: Copyright &copy; 2018. Krumhausen Consulting <br>All rights reserved.
+            copyright: Copyright &copy; 2018. <a href="https://krumhausen.com/">Krumhausen Consulting</a><br> All rights reserved.
         social_list:
             - network_name: github
               profile_url: 'http://github.com/mrkrumhausen/product-playbook'

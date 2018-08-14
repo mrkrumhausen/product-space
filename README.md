@@ -5,7 +5,7 @@ A Playbook of Product Management Techniques
 The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
 —
 
-## The Plays
+## The plays
 ### Team management
 * [Dual Track Scrum](/plays/dual-track-scrum.md)
 * (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
@@ -42,7 +42,7 @@ The Product Space give people plays they can apply to specific moments of the pr
 * Brainstorm Session
 * Content audit
 
-—
+
 ## Inspiration
 Some of the companies that openly share how they develop product are:
 * [Atlassian](https://www.atlassian.com/team-playbook/plays)
