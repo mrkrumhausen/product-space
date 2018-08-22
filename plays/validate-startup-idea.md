@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Validate your startup idea
-description: PLAY DESCRIPTION
+description: Nothing is more frustrating than spending years on your idea just to notice it wasn’t any good in the first place.
 
 # Author box
 <!-- author:
@@ -30,6 +30,10 @@ page_nav:
 ---
 
 ## How to Validate your startup idea?
+Nothing is more frustrating than spending years on your idea just to notice it wasn’t any good in the first place.
+
+
+
 Four things are critical for success: the idea, the product, the team and the execution.
 
 
@@ -44,7 +48,7 @@ There are no guidelines, no working templates, no business models to clone. Ther
 
 
 
-## 1. Product fit
+### 1. Product fit
 
 1. **What problem are you solving?** Solve a real problem for your users. If you can’t clearly state the problem your product or service solves, you probably don’t have a successful idea. 
 2. **What niches have not been served/what gaps exist in the market?** Try to understand what problem in the market you are trying to address or if there are gaps or niches that are not being served by anyone else. If those areas intersect with what you like, then you have hit the sweet spot.
@@ -69,7 +73,7 @@ a problem worth solving). Anyway, often they already pay something to someone at
 
    
 
-## 2. Market fit
+### 2. Market fit
 
 1. **What is the target market for my business?** Neither is every product meant for everyone nor do companies have the time and resources to reach everyone. Zeroing in on the [target market](https://www.feedough.com/target-market-definition-examples-strategies-analysis/) not only helps you set your marketing and development strategies in place, it also can lead to higher returns on investment in the long run.
 2. **What is the market size?** What is the current size of the market? What is the potential size of the market? Will it grow or contract? Why? How much of the market share can we conservatively take? Understanding how many people need your idea -- and what they’re willing to pay for it -- will help you determine whether your concept is viable.
@@ -80,44 +84,35 @@ a problem worth solving). Anyway, often they already pay something to someone at
 
 
 
-## 3. Revenue
+### 3. Revenue
 1. **Revenue model** Where do you get your money? And what is the model of getting that revenue: monthly subscription, one-time fee, pay-per-use...?
 2. **What will it take to break even or make a profit?** Some ideas take a lot of upfront investment, while others don’t. If yours does, it’s a good idea to plan for how you’ll handle your finances and daily needs while you’re waiting for your product or service to gain traction.
 
 
 
-## 4. Effort
+### 4. Effort
 
-- **How much cash will I have at risk?**
+1. How much cash will I have at risk?
+2. How much time will it consume?
+3. Can I test-run the business part-time before quitting my job?
+4. How many employees will I need?
+5. How will I exit my business few years down the line if I want to and how will the responsibilities be transferred in such a case?
 
-- **How much time will it consume?**
 
-- **Can I test-run the business part-time before quitting my job?**
 
-- **How many employees will I need?**
+### 5. Bonus: What investors are looking for
 
-- **How will I exit my business few years down the line if I want to and how will the responsibilities be transferred in such a case?**
-
-   
-
-  ## 5. Bonus: What investors are looking for
-
-- Team
-
-- Tone addressable market
-
-- Technology (Rocket science)
-
-- Transformative
-
-- Ten x (10x)
+1. Team
+2. Total addressable market
+3. Technology (Rocket science)
+4. Transformative
+5. Ten x (10x)
 
   
-
-  
-
 
 ## Concluding notes
+
+
 
 ## Resources
 [https://www.entrepreneur.com/article/296922](https://www.entrepreneur.com/article/296922)

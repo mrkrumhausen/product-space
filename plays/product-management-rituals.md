@@ -32,13 +32,20 @@ Below is a list of team rituals that are beneficial for running a development te
 
 ## Update Product backlog and roadmap
 Make sure your quarterly roadmap is up to date and you have broken it down into smaller product or experiment briefs
-- Review the backlog and prioritise the user stories based on urgency.
 
-**Populate the backlog**
-At this stage the user story only needs to describe the feature in broad brush strokes
+
+
+👉 Review the backlog and prioritise the user stories based on urgency.
+
+**Populate the backlog**: At this stage the user story only needs to describe the feature in broad brush strokes
 
 **Refining the backlog**: Fleshing the stories out. Refine the backlog with, as a minimum, the ‘Three Amigos’ – the Product Owner, a developer and a (UX) designer.
-- This should be done as part of the discover track in [dual-track scrum]
+
+
+
+**Pro tip**: Backlog refining can be done as part of the discover track in [Dual-track scrum](/plays/dual-track-scrum)
+
+
 
 
 ## Weekly recaps
@@ -60,8 +67,9 @@ One of the biggest benefits of documenting each week is it provides a history th
 
 1. **What are we reading**: We keep a #reading-list Slack channel. If anything pops up there that’s worth an extra look, it gets captured here as well.
 
-### Resources
-[https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe](https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe)
+**Pro Tip**: for more details about weekly recaps, read the [six templates for product managers][templates]
+
+
 
 ## SCRUM rituals
 ### Daily standup
@@ -88,7 +96,7 @@ Figure out how we actually do the work and agree the order we’ll work on it.
 **The sprint goal**: The sprint goal is set by the PO and is a short encapsulation of what the team has agreed to achieve during the sprint. Examples: *Build a responsive homepage with navigation menu and Twitter feed*.
 
 
-### Sprint Demo
+### Sprint demo
 The sprint demo is invaluable for keeping stakeholders up to speed with the progress of product development. It allows them to feedback and suggest improvements that can added to the product backlog to maximise value.
 
 While demoing the sprint work, user stories provide a good framework to report on which work has been done and what remains to be done.
@@ -107,13 +115,13 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 
 **Continue: Things that went well**
 -		What went well?
--		Why did it go well?
--		How do we keep encouraging that?
+			Why did it go well?
+			How do we keep encouraging that?
 
 **Stop: Things that didn't go so well**
 -		What went badly?
--		Why did it go badly?
--		How do we avoid repeating that?
+			Why did it go badly?
+			How do we avoid repeating that?
 
 **Start:**
 - What should we start doing?
@@ -121,9 +129,17 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 ## Concluding notes
 
 ## Resources
-[https://manifesto.co.uk/scrum-practice-sprint-demo/](https://manifesto.co.uk/scrum-practice-sprint-demo/)
-[https://manifesto.co.uk/scrum-sprint-planning/](https://manifesto.co.uk/scrum-sprint-planning/)
-[https://manifesto.co.uk/agile-concepts-product-backlog/](https://manifesto.co.uk/agile-concepts-product-backlog/)
+- [https://manifesto.co.uk/scrum-practice-sprint-demo/](https://manifesto.co.uk/scrum-practice-sprint-demo/)
+- [https://manifesto.co.uk/scrum-sprint-planning/](https://manifesto.co.uk/scrum-sprint-planning/)
+- [https://manifesto.co.uk/agile-concepts-product-backlog/](https://manifesto.co.uk/agile-concepts-product-backlog/)
+
+
 
 ## Related plays
 - [Dual-track scrum](plays/dual-track-scrum)
+
+
+
+
+
+[templates]: https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe	"six templates for product managers"

@@ -65,7 +65,7 @@ Here are a few keys to what make OKRs work at Google:
 - The “sweet spot” for an OKR grade is .6 — .7; if someone consistently gets 1.0, their OKRs aren’t ambitious enough. Low grades shouldn’t be punished; see them as data to help refine the next quarter’s OKRs.
 - OKRs are public; everyone in the company should be able to see what everyone else is working on (and how they did in the past)
 
-For details on how to run as well as some extra context, check [GV's guide to OKRs][gv-guide].
+**Pro tip**: for details on how to run as well as some extra context, check [GV's guide to OKRs][gv-guide].
 
 
 
@@ -87,4 +87,4 @@ Don't think of OKRs as a proxy for performance reviews for individual employees.
 
 
 
-[gv-guide]: https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfwiuenot
+[gv-guide]: https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfwiuenot	"GV guide"
