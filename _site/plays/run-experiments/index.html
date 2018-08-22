@@ -9,7 +9,11 @@
 	<meta name="description" content="Use experiments to understand if something is a good idea (and learn from this understanding).">
 
 
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,700i|Noto+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=latin-ext">
 <link rel="stylesheet" href="/doks-theme/assets/css/style.css">
 
@@ -108,8 +112,7 @@
 <h2 id="different-types-of-experiments">Different types of experiments</h2>
 <p>Running online experiments is very cheap, so running them early in a discovery process is an advantage. Run a kill experiment as fast as possible to validate your idea without getting too attached to it.</p>
 
-<p><strong>the kill experiment</strong> focuses on one thing only:
-<em>Will users buy it?</em></p>
+<p><strong>The kill experiment</strong> focuses on one thing only: <em>Will users buy it?</em></p>
 
 <p>To know if customers will buy it (use it), a kill experiment must follow certain principles to work:</p>
 
@@ -122,11 +125,54 @@
 
 <p>You can start with a simple proof-of-concept experiment (PoC). These types of experiments are allowed to be low fidelity; You don’t need polished a design, and it’s okay to have some friction in the user journey. The point is not to test a flashy feature or idea. The point is to see if users do what we expect them to (measuring behavior).</p>
 
-<p><strong>fake door</strong>
+<p><strong>Fake door</strong>: Build the door for the feature without actually building the feature and measure the interest. If enought users click (engage) then it’s worth building the feature.
 …</p>
 
-<p><strong>AB Testing</strong>
-The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company’s guiding metrics (or Overall Evaluation Criteria, OEC).</p>
+<p><strong>AB Testing</strong>: The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company’s guiding metrics (or Overall Evaluation Criteria, OEC). Test with a small percentage of users, usually 1-5%</p>
+
+<h2 id="experimentation-brief">Experimentation brief</h2>
+<p>A concise document that paints a clear picture of the problem space and what we’re trying to accomplish.</p>
+
+<ul>
+  <li>How will we know if this product is successful?</li>
+  <li>Is this a “step change” (a product yielding at least a 2x improvement on the chosen metric)? If only minor metrics improvements are expected, another strong strategic reason should exist.</li>
+</ul>
+
+<h3 id="1-the-business-objective">1. The Business Objective</h3>
+
+<p>Describe the business goal / problem / need / opportunity you’re looking to solve.</p>
+<ul>
+  <li><strong>Who are we solving for?</strong> Who will benefit from this and how?</li>
+  <li><strong>KPIs</strong>. Define “Success”: What are the key metrics that we expect this to improve? (e.g. songs streamed, number of downloads, etc.)</li>
+  <li>Why is this business objective important? This is where you tie your project to the larger context of the company.</li>
+</ul>
+
+<h3 id="2-hypothesis">2. Hypothesis</h3>
+
+<p>List your hypothesis and make it measurable, e.g. <em>adding a buy button next to the product will increase conversion by 20%</em>.</p>
+
+<p><strong>Pro tip</strong>: Test multiple different versions to find the version by focusing on breadth rather than depth.</p>
+
+<h3 id="3-experiment-design">3. Experiment design</h3>
+<p>The description of the solution/implementation. How will you run the experiement?</p>
+
+<p><strong>Pro tip</strong>: The experiement should be fast and inexpensive to run, e.g. “<em>I’ll pick up my phone and call three of them right now to see what they think about it.</em>”, “<em>I’ll add a fake door to see if people are interested in the new feature</em>”</p>
+
+<ul>
+  <li>What’s in / out of scope?</li>
+</ul>
+
+<p><strong>Considerations</strong>:</p>
+<ul>
+  <li>Who needs to be involved?</li>
+  <li>What problems do we need to solve? Identify unknowns, areas of risk, and known challenges that need to be resolved before development can begin.</li>
+  <li>What is already built? A short description of existing and related features that give context to the new project.</li>
+  <li>What future considerations need to be accounted for? Are there future features or business goals that will build on top of this feature? Goal is to not design ourselves into a corner now if we know about something in the future.</li>
+</ul>
+
+<h3 id="4-results">4. Results</h3>
+
+<p>List the key findings.</p>
 
 <h2 id="concluding-notes">Concluding notes</h2>
 <p>Experimentation is typically run when teams have enough traffic to empirically and scientifically test whether a change will produce the intended effects with a cohort of real users. Teams using experimentation should ensure they have adequate levels of traffic, they understand the problem they are trying to solve and they have ensured the impact of their changes can and should be measured through an experiment.</p>
@@ -134,9 +180,12 @@ The regular version of a product (called Control) is compared against a modified
 <h2 id="resources">Resources</h2>
 <ul>
   <li><a href="https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e">https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e</a></li>
+  <li><a href="https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe">https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe</a></li>
 </ul>
 
 <h2 id="related-plays">Related plays</h2>
+
+<p><a href="/plays/mvp">MVP</a></p>
 
 						</div><!-- /.content -->
 					</div><!-- /.col -->
@@ -193,7 +242,7 @@ The regular version of a product (called Control) is compared against a modified
 			<div class="row">
 				<div class="col-sm-6">
 					
-						<a href="/" class="site-footer__logo">The Product Space 🚀 - A Product Management Playbook</a>
+						<a href="/" class="site-footer__logo">The Product Space</a>
 					
 					
 						<hr>

@@ -10,10 +10,10 @@ description: How do you price your product or service?
 
 # Author box
 <!-- author:
-    title: About Author
-    title_url: '#'
+    title: About Sebastian
+    title_url: 'https://krumhausen.com'
     external_url: true
-    description: Author description -->
+    description: Product Manager & Digital Strategist -->
 
 # Micro navigation
 micro_nav: true

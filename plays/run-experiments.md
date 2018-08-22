@@ -67,8 +67,7 @@ A development team’s responsibility is not only to deliver code, but to run ex
 ## Different types of experiments
 Running online experiments is very cheap, so running them early in a discovery process is an advantage. Run a kill experiment as fast as possible to validate your idea without getting too attached to it.
 
-**the kill experiment** focuses on one thing only:
-*Will users buy it?*
+**The kill experiment** focuses on one thing only: *Will users buy it?*
 
 To know if customers will buy it (use it), a kill experiment must follow certain principles to work:
 
@@ -80,11 +79,58 @@ Example: a simple website with minimal functionality, that mimics the full exper
 You can start with a simple proof-of-concept experiment (PoC). These types of experiments are allowed to be low fidelity; You don’t need polished a design, and it’s okay to have some friction in the user journey. The point is not to test a flashy feature or idea. The point is to see if users do what we expect them to (measuring behavior).
 
 
-**fake door**
+**Fake door**: Build the door for the feature without actually building the feature and measure the interest. If enought users click (engage) then it's worth building the feature.
 ...
 
-**AB Testing**
-The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company's guiding metrics (or Overall Evaluation Criteria, OEC).
+**AB Testing**: The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company's guiding metrics (or Overall Evaluation Criteria, OEC). Test with a small percentage of users, usually 1-5%
+
+
+
+##  Experimentation brief
+A concise document that paints a clear picture of the problem space and what we’re trying to accomplish.
+
+
+
+- How will we know if this product is successful?
+- Is this a “step change” (a product yielding at least a 2x improvement on the chosen metric)? If only minor metrics improvements are expected, another strong strategic reason should exist.
+
+### 1. The Business Objective
+
+Describe the business goal / problem / need / opportunity you’re looking to solve.
+- **Who are we solving for?** Who will benefit from this and how?
+- **KPIs**. Define "Success": What are the key metrics that we expect this to improve? (e.g. songs streamed, number of downloads, etc.)
+- Why is this business objective important? This is where you tie your project to the larger context of the company. 
+
+
+
+### 2. Hypothesis
+
+List your hypothesis and make it measurable, e.g. *adding a buy button next to the product will increase conversion by 20%*. 
+
+**Pro tip**: Test multiple different versions to find the version by focusing on breadth rather than depth.
+
+
+
+### 3. Experiment design
+The description of the solution/implementation. How will you run the experiement?
+
+**Pro tip**: The experiement should be fast and inexpensive to run, e.g. "*I’ll pick up my phone and call three of them right now to see what they think about it.*", "*I'll add a fake door to see if people are interested in the new feature*" 
+
+- What's in / out of scope?
+
+**Considerations**:
+- Who needs to be involved?
+- What problems do we need to solve? Identify unknowns, areas of risk, and known challenges that need to be resolved before development can begin.
+- What is already built? A short description of existing and related features that give context to the new project.
+- What future considerations need to be accounted for? Are there future features or business goals that will build on top of this feature? Goal is to not design ourselves into a corner now if we know about something in the future.
+
+
+
+### 4. Results
+
+List the key findings.
+
+
 
 ## Concluding notes
 Experimentation is typically run when teams have enough traffic to empirically and scientifically test whether a change will produce the intended effects with a cohort of real users. Teams using experimentation should ensure they have adequate levels of traffic, they understand the problem they are trying to solve and they have ensured the impact of their changes can and should be measured through an experiment.
@@ -92,5 +138,10 @@ Experimentation is typically run when teams have enough traffic to empirically a
 
 ## Resources
 - [https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e](https://medium.com/the-experimental-approach/the-experimental-approach-e6a01a4b941e)
+- [https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe](https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe)
+
+
 
 ## Related plays
+
+ [MVP](/plays/mvp) 

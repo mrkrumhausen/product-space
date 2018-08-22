@@ -2,40 +2,40 @@
 A Playbook of Product Management Techniques
 
 ## Intro
-The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
-—
+The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and are used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
+
 
 ## The plays
 ### Team management
-* [Dual Track Scrum](/plays/dual-track-scrum.md)
-* (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
-* (WIP) [OKRs](/plays/okr.md)
+* [x] [Dual Track Scrum](/plays/dual-track-scrum.md)
+* [ ] (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
+* [x] [OKRs](/plays/okr.md)
 
 ### Understanding and kick-off
-* (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
-* (WIP) [Project Brief](/plays/project-brief.md)
-* (WIP) [Working Backwards](/plays/working-backwards.md)
-* (TODO) Design Sprint
-* (WIP) [Lean Product Plan](/plays/lean-product-plan.md)
-* (WIP) [Validate your startup idea](/plays/validate-startup-idea.md)
+* [ ] (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
+* [ ] (WIP) [Project Brief](/plays/project-brief.md)
+* [ ] (WIP) [Working Backwards](/plays/working-backwards.md)
+* [ ] (TODO) Design Sprint
+* [ ] (WIP) [Lean Product Plan](/plays/lean-product-plan.md)
+* [ ] (WIP) [Validate startup idea](/plays/validate-startup-idea.md)
 
 ### Building the right things
-* (WIP) [Run Experiments](/plays/run-experiments.md)
-* (TODO) Minimum ~~Viable~~ Lovable product: incl. adwords experiments
+* [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
+* [ ] (TODO) Minimum ~~Viable~~ Lovable product: incl. adwords experiments
+* [ ] (WIP) [Data-informed design](/plays/data-informed-design.md)
 
 ### Building
-* (TODO) Jobs-to-be-done, user stories and Job Canvas: How does it fit with user stories?
-* (TODO) Product Roadmap
-* (TODO) Trigger-model
+* [ ] (TODO) Jobs-to-be-done, user stories and Job Canvas: How does it fit with user stories?
+* [ ] (TODO) Product Roadmap
+* [ ] (TODO) Trigger-model
 
 ### Optimising and growth
-* (TODO) Effective Google Ads campaigns
-* (TODO) SEO Guidelines
-* (WIP) [Pricing](/plays/pricing.md)
-* (TODO) FB organic and paid advertisement
+* [ ] (TODO) Effective Google Ads campaigns
+* [ ] (TODO) SEO Guidelines
+* [ ] (WIP) [Pricing](/plays/pricing.md)
+* [ ] (TODO) FB organic and paid advertisement
 
 ## Ideas for plays
-* Data-informed design
 * Revenue estimation template
 * Scrum of Scrums
 * Customer Journey Mapping

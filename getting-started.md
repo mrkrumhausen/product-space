@@ -40,7 +40,7 @@ A play is an agreed upon set of actions the team takes in a given situation. It 
 
 
 ## Contributors
-- [Sebastian krumhausen](http://krumhausen.com)
+- [Sebastian krumhausen](https://krumhausen.com)
 - Tina Siig
 
 ## Change log

@@ -29,7 +29,7 @@ grid_navigation:
       cta: Read more
       url: '/plays/project-brief'
     - title: OKRs
-      excerpt: Track the success of a project
+      excerpt: A goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
       cta: Read more
       url: '/plays/okr'
     - title: Product Management Rituals
@@ -52,5 +52,9 @@ grid_navigation:
       excerpt: How Amazon kicks of product development
       cta: Read more
       url: '/plays/working-backwards'
+    - title: MVP
+      excerpt: How to build a simple, yet lovable and complete product
+      cta: Read more
+      url: '/plays/mvp'
 
 ---
