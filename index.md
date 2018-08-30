@@ -12,7 +12,7 @@ buttons:
       external_url: false
     - icon: github
       content: Contribute
-      url: 'http://github.com/mrkrumhausen/product-playbook'
+      url: 'https://github.com/mrkrumhausen/product-space'
       external_url: true
 
 # Author box

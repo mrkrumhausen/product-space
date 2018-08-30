@@ -59,5 +59,5 @@ Some of the companies that openly share how they develop product are:
 
 
 ## Contributing to The Product Space
-* [Play Format](/template.md)
+* [Play Format](/plays/_template.md)
 * [Contribution Guidelines](/CONTRIBUTING.md)
