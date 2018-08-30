@@ -31,8 +31,7 @@ In American football, the situation on the field changes all the time. It’s im
 A play is an agreed upon set of actions the product team can choose in a given situation. It helps to have a shared understanding and a shared language, so everyone is on the same page.
 
 ## How to contribute
-* [Play Format](/plays/_template.md)
-* [Contribution Guidelines](/CONTRIBUTING.md)
+Please review the [github repo](https://github.com/mrkrumhausen/product-space)
 
 ## Contributors
 - [Sebastian krumhausen](https://krumhausen.com?utm_source=product-space&utm_medium=website)
