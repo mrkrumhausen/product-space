@@ -19,14 +19,6 @@ description: Use the brief at the outset of a project or product cycle, when a d
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
-
 ---
 
 ## The project brief
@@ -85,6 +77,34 @@ Other groups (or major stakeholders)
 Could be a high-level timeline with associated milestones or a in a more agile setting, sprints.
 
 ### 5.3 Risks
+
+
+
+## Bonus: The kickoff meeting
+
+All project meetings should be important, but the project kickoff meeting is the most crucial because it sets the tone and vision of the entire project. You’ll want to get this meeting right so everyone starts out motivated, focused and informed.
+
+### Agenda (75 min)
+
+0. **Basics:** Write down the name and/or number of the project being discussed, where that meeting is being held, and list the people attending by name and role in the project, incl. the project manager and project owner. You want to have a full list of those who were there. New people may come into the project later, and then they can be brought up to speed and added to the list of those who have been briefed. Finally, note the date and time of the meeting.
+
+1. **Introductions** – meet your new best buds (15 mins). Consider including a meeting icebreaker, like "What’s Your Favorite Year" to get everyone focused and into meeting mode. Allow time for the project sponsors to introduce themselves and make a brief statement, if they want.
+
+2. **Project** – why are we doing this? (5 mins). Read the description of the project and the reason it is being initiated. Tell the group what the business drivers for initiating and the benefits of the project. Detail the goals and ensuring there’s clarity as to what success – or failure looks like. What you’re doing here is more than disseminating information, you’re rallying the troops to get buy-in and to fully engage and inspire the team.
+
+3. **Approach & Teamwork**  – Which methodology will the team follow, how collaboration should be managed, how communication should flow, when the team should meet, the tools that should be used, and which systems you’ll use to share deliverables or outline details of specific tasks or tickets.
+
+4. **Planning & Scope** – what are we doing? (20 mins). Review the project management plan/ timeline so everyone understands the flow of the project, the activities and the outputs or deliverables. Discuss the assumption log, which is how you will track the validation of these assumptions throughout the project.
+
+   **Pro tip**: Great time to start the RAID (Risks, Assumptions, Issues and Dependencies).  
+
+5. **Roles** – who is doing what? (5 mins)
+
+6. **Next** – how do we keep momentum? (5 mins)
+
+7. **Q&A** – what haven’t we told you? (5 mins)
+
+
 
 
 ## Concluding notes

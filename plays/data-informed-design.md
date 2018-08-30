@@ -19,22 +19,52 @@ description: a systematic approach to the development and evolution of products 
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 
 ---
 ## What is data informed design
 It’s a systematic approach to the development and evolution of products and services.
 
-## Why use a Data Informed Design Approach
-Decisions for design should be informed by data
+The difference between data-driven and data-informed is subtle but important in my opinion, and data-informed is perfectly depicted by this Venn diagram, which I borrowed and tweaked from [Josh Porter](http://bokardo.com/archives/growing-10-100-1000-users/):
 
-The best thing about analytics and data is that it can show us what people do on their own, but it doesn’t tell us about the users context, motivations, and intent.
+![img](https://cdn-images-1.medium.com/max/1600/1*aq1SYP0mL0Y7BRmvzuiaVA.png)
+
+## Why use a Data-informed Design Approach
+Decisions for design should be informed by data. Data can be anything from conversion, engagement, time spent in product, feature usage, net promoter scores (NPS) 
+
+
+
+- **Quantitative data** tells you WHAT is or isn’t happening. Analytics and data show us what people do on their own, but it doesn’t tell us about the users context, motivations, and intent.
+- **Qualitative data** helps you better understand WHY it is or isn’t happening.
+
+
+
+## How to? 
+
+Good product design comes from striking the right balance between data, empathy and intuition. 
+
+**Data**: 
+
+*Data provides the “what”.*
+
+ 
+
+**Empathy**
+
+Empathy can be built up by reading NPS feedback quotes, interviewing customers, surveys and more traditional ethnographic research methods, like contextual inquiries or usability testing. Again though, that empathy is useless without meaningful insights.
+
+*Empathy provides the “why”.*
+
+ 
+
+**Gut feeling / intuition**
+
+There is a great quote from [Julie Zhu](https://medium.com/the-year-of-the-looking-glass/the-agony-and-ecstasy-of-building-with-data-56215764d67c)o, the Facebook product design director:
+
+> Data and A/B test are valuable allies, and they help us understand and grow and optimize, but they’re not a replacement for clear-headed, strong decision-making. Don’t become dependent on their allure. Sometimes, a little instinct goes a long way.
+
+*Intuition provides the “how”.*
+
+
 
 ## Use analytics 
 Google Analytics can tell us what happens when a user comes to the pages directly. We also need to understand happens when a user comes to that page through other pages, and what happens after he takes an action to download one ebook.
@@ -65,8 +95,25 @@ Tools like Mouseflow, Clicktale, Hotjar, VWO, and Inspectlet include click, hove
 1. A/B testing can then be used to compare different design versions and determine which one is more successful.
 
 
+
+## Run experiments 
+
+Whenever you are designing an experience you need to ensure you know what data point you are optimising for and if it is a leading or trailing metric. You should only try to optimise for one metric, but you should also monitor other secondary metrics in your product. Again, the key is getting customer insights from your data.
+
+**Pro tip**: [Read more about how to run experiments](/plays/run-experiments)
+
+
+
 ## Concluding notes
+
+Good product design comes from striking the right balance between data, empathy and intuition. You need an understanding of the feedback you get from data and research, and a gut feel of what is right or wrong. Data should not paralyse any designer or remove their creative freedom. Understand that neither one of these inputs will tell us what to design and build.
+
+ 
 
 ## Resources
 
+[Data-driven vs. data-informed design in enterprise products](https://medium.com/designing-atlassian/data-driven-vs-data-informed-design-in-enterprise-products-538749b1b4eb)
+
 ## Related plays
+
+[Run experiments](/plays/run-experiments)

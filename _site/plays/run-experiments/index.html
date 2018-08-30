@@ -49,19 +49,6 @@
 									<p class="hero-subheader__desc">Use experiments to understand if something is a good idea (and learn from this understanding).</p>
 								
 								
-									
-										<a href="#" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
-											<i class="icon icon--arrow-left"></i>
-											Previous page
-										</a>
-									
-									
-										<a href="#" class="btn btn--dark btn--rounded btn--w-icon">
-											<i class="icon icon--arrow-right"></i>
-											Next page
-										</a>
-									
-								
 							</div><!-- /.align-inner -->
 						</div><!-- /.align-container -->
 					</div><!-- /.col -->
@@ -75,18 +62,14 @@
 					<div class="col-md-7">
 						<div class="content">
 							<h2 id="experiment-your-way-to-success">Experiment your way to success</h2>
-<p>You should run experiments to assess the value of an idea. An idea often comes as a solution to a user’s “pain”/need.</p>
+<p>You should run experiments to assess the value of an idea. An idea often comes as a solution to a user’s pain/need.</p>
 
-<p>Inside organisations, we often listen to senior managers as the main source of information.</p>
-
-<h2 id="why-experiment">Why experiment?</h2>
+<h2 id="why-experiment-">Why experiment? 🔮</h2>
 <p>In all companies I have ever been in (from startups to enterprises), there have been plenty of ideas. The problem is to figure out what the best idea is, and spend the time on that.</p>
 
-<p>Why can’t we just ask people or interview them? Well, people often do not behave the way they say they do.</p>
+<p>Why can’t we just ask people or interview them? Well, people often do not behave the way they say they do…Instead validate your idea and learn in the fastest, cheapest way possible.</p>
 
-<p>…Instead validate your idea (and learn) in the fastest, cheapest way possible.</p>
-
-<h2 id="the-traditional-way-assessing-ideas">The Traditional way assessing ideas</h2>
+<h2 id="the-traditional-way-of-assessing-ideas">The traditional way of assessing ideas</h2>
 <p><em>Idea &gt; Business Case &gt; Senior Decision &gt; Build &gt; Measure success</em></p>
 
 <p>In this model, a committee has to decide (with their knowledge and assumptions) if an idea is good after an innovation team presents their desktop research.</p>
@@ -109,10 +92,18 @@
 
 <p>A development team’s responsibility is not only to deliver code, but to run experiments to understand if something is a good idea; hereby identifying new opportunities and ultimately, ship a product that satisfy their customers’s needs.</p>
 
+<h2 id="how-to-experiment">How to experiment</h2>
+
+<p>The outside world often has a much larger effect on metrics than product changes do. Users can behave very differently depending on the day of week, the time of year, the weather (especially in the case of a travel company like Airbnb), or whether they learned about the website through an online ad or found the site organically. </p>
+
+<p>Controlled experiments isolate the impact of the product change while controlling for the aforementioned external factors.</p>
+
 <h2 id="different-types-of-experiments">Different types of experiments</h2>
 <p>Running online experiments is very cheap, so running them early in a discovery process is an advantage. Run a kill experiment as fast as possible to validate your idea without getting too attached to it.</p>
 
-<p><strong>The kill experiment</strong> focuses on one thing only: <em>Will users buy it?</em></p>
+<h3 id="kill-experiment">Kill experiment</h3>
+
+<p>The kill experiment focuses on one thing only: <em>Will users buy it?</em></p>
 
 <p>To know if customers will buy it (use it), a kill experiment must follow certain principles to work:</p>
 
@@ -125,25 +116,25 @@
 
 <p>You can start with a simple proof-of-concept experiment (PoC). These types of experiments are allowed to be low fidelity; You don’t need polished a design, and it’s okay to have some friction in the user journey. The point is not to test a flashy feature or idea. The point is to see if users do what we expect them to (measuring behavior).</p>
 
-<p><strong>Fake door</strong>: Build the door for the feature without actually building the feature and measure the interest. If enought users click (engage) then it’s worth building the feature.
-…</p>
+<h3 id="fake-door">Fake door</h3>
 
-<p><strong>AB Testing</strong>: The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company’s guiding metrics (or Overall Evaluation Criteria, OEC). Test with a small percentage of users, usually 1-5%</p>
+<p>Build the door for the feature without actually building the feature and measure the interest. If enought users click (engage) then it’s worth building the feature.</p>
+
+<h3 id="ab-or-split-testing">A/B or split testing</h3>
+
+<p>The regular version of a product (called Control) is compared against a modified version (the B Variant or the Challenger) and checked for effects on a company’s guiding metrics (or Overall Evaluation Criteria, OEC). Test with a small percentage of users, usually 1-5%</p>
+
+<p><strong>Pro tip</strong>: a couple of bigger tech companies have open sourced their internal systems for others to use. See Cloudera’s <a href="https://github.com/cloudera/gertrude">Gertrude</a>, Etsy’s <a href="https://github.com/etsy/feature">Feature</a>, and Facebook’s <a href="http://facebook.github.io/planout/">PlanOut</a>, for example.</p>
 
 <h2 id="experimentation-brief">Experimentation brief</h2>
 <p>A concise document that paints a clear picture of the problem space and what we’re trying to accomplish.</p>
-
-<ul>
-  <li>How will we know if this product is successful?</li>
-  <li>Is this a “step change” (a product yielding at least a 2x improvement on the chosen metric)? If only minor metrics improvements are expected, another strong strategic reason should exist.</li>
-</ul>
 
 <h3 id="1-the-business-objective">1. The Business Objective</h3>
 
 <p>Describe the business goal / problem / need / opportunity you’re looking to solve.</p>
 <ul>
   <li><strong>Who are we solving for?</strong> Who will benefit from this and how?</li>
-  <li><strong>KPIs</strong>. Define “Success”: What are the key metrics that we expect this to improve? (e.g. songs streamed, number of downloads, etc.)</li>
+  <li><strong>KPIs</strong>. How will we know if this experiment is successful? Define “Success”: What are the key metrics that we expect this to improve? (e.g. songs streamed, number of downloads, etc.)</li>
   <li>Why is this business objective important? This is where you tie your project to the larger context of the company.</li>
 </ul>
 
@@ -156,8 +147,6 @@
 <h3 id="3-experiment-design">3. Experiment design</h3>
 <p>The description of the solution/implementation. How will you run the experiement?</p>
 
-<p><strong>Pro tip</strong>: The experiement should be fast and inexpensive to run, e.g. “<em>I’ll pick up my phone and call three of them right now to see what they think about it.</em>”, “<em>I’ll add a fake door to see if people are interested in the new feature</em>”</p>
-
 <ul>
   <li>What’s in / out of scope?</li>
 </ul>
@@ -169,6 +158,8 @@
   <li>What is already built? A short description of existing and related features that give context to the new project.</li>
   <li>What future considerations need to be accounted for? Are there future features or business goals that will build on top of this feature? Goal is to not design ourselves into a corner now if we know about something in the future.</li>
 </ul>
+
+<p><strong>Pro tip</strong>: The experiement should be fast and inexpensive to run, e.g. “<em>I’ll pick up my phone and call three of them right now to see what they think about it.</em>”, “<em>I’ll add a fake door to see if people are interested in the new feature</em>”</p>
 
 <h3 id="4-results">4. Results</h3>
 
@@ -185,7 +176,9 @@
 
 <h2 id="related-plays">Related plays</h2>
 
-<p><a href="/plays/mvp">MVP</a></p>
+<ul>
+  <li><a href="/plays/mvp">Minimum Viable Product</a></li>
+</ul>
 
 						</div><!-- /.content -->
 					</div><!-- /.col -->
@@ -199,27 +192,6 @@
 		</div><!-- /.section -->
 		
 		<div class="js-footer-area">
-			
-				<nav class="page-nav">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12">
-								
-									<a href="#" class="page-nav__item page-nav__item--prev">
-										<i class="icon icon--arrow-left"></i>
-										Previous page
-									</a><!-- /.page-nav__item -->
-								
-								
-									<a href="#" class="page-nav__item page-nav__item--next">
-										Next page
-										<i class="icon icon--arrow-right"></i>
-									</a><!-- /.page-nav__item -->
-								
-							</div><!-- /.col -->
-						</div><!-- /.row -->
-					</div><!-- /.container -->
-				</nav><!-- /.page-nav -->
 			
 			
 				<div class="micro-nav">

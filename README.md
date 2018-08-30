@@ -1,8 +1,12 @@
-# The Product Space 🚀
-A Playbook of Product Management Techniques
+# 	The Product Space 🚀
+A playbook of product management techniques
+
+
 
 ## Intro
 The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and are used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
+
+
 
 
 ## The plays
@@ -11,7 +15,7 @@ The Product Space give people plays they can apply to specific moments of the pr
 * [ ] (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
 * [x] [OKRs](/plays/okr.md)
 
-### Understanding and kick-off
+### Understanding and kickoff
 * [ ] (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
 * [ ] (WIP) [Project Brief](/plays/project-brief.md)
 * [ ] (WIP) [Working Backwards](/plays/working-backwards.md)
@@ -21,13 +25,13 @@ The Product Space give people plays they can apply to specific moments of the pr
 
 ### Building the right things
 * [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
-* [ ] (TODO) Minimum ~~Viable~~ Lovable product: incl. adwords experiments
+* [ ] (TODO) [Minimum ~~Viable~~ Lovable product](/plays/mvp.md): incl. adwords experiments
 * [ ] (WIP) [Data-informed design](/plays/data-informed-design.md)
 
 ### Building
-* [ ] (TODO) Jobs-to-be-done, user stories and Job Canvas: How does it fit with user stories?
-* [ ] (TODO) Product Roadmap
-* [ ] (TODO) Trigger-model
+* [ ] (TODO) [Post-MVP](/plays/post-mvp.md) (incl. Trigger-model)
+* [ ] (TODO) [Jobs-to-be-done](/plays/jobs-to-be-done.md), (incl. user stories and Job Canvas: How does it fit with user stories?)
+* [ ] (TODO) [Product Roadmap](/plays/product-roadmap.md) (incl. prioritisation)
 
 ### Optimising and growth
 * [ ] (TODO) Effective Google Ads campaigns
@@ -37,10 +41,14 @@ The Product Space give people plays they can apply to specific moments of the pr
 
 ## Ideas for plays
 * Revenue estimation template
-* Scrum of Scrums
+* Scaling SCRUM (SAFe, Scrum of Scrums, etc.)
 * Customer Journey Mapping
+* Customer Journey Analytics
 * Brainstorm Session
 * Content audit
+* GDPR ([inspo](https://www.hubspot.com/data-privacy/gdpr/hubspot-product-playbook))
+
+
 
 
 ## Inspiration

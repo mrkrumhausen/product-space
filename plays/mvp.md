@@ -31,9 +31,11 @@ page_nav:
 
 ## Why Minimum Viable Product?
 
+MVPs are great for startups and product teams because they maximize validated learning about customers as quickly as possible.
+
 Many projects fail badly because they do Big Bang delivery (build the thing until 100% done and deliver at the end). Agile is presented as a solution, but customers cannot use a half build car. Customers don't care if you build something using waterfall or agile.
 
-The [Lean Startup]() introduces the idea of the Minimum Viable Product where the product team builds the quckest, smallest thing possible to get customer feedback and learn.
+[The Lean Startup](http://theleanstartup.com) introduces the idea of the Minimum Viable Product where the product team builds the quckest, smallest thing possible to get customer feedback and learn.
 
 
 
@@ -45,9 +47,7 @@ Technically it might be incremental and iterative delivery, but the absence of a
 
 Instead of starting with an uninteresting dry cake and then adding filling and icing, you start with a delicious cupcake and iterate it into a cake. Customers will pay for a cupcake because it’s complete with filling and icing.
 
-![https://speckyboy.com/wp-content/uploads/2014/09/building_minimum_viable_products_spotify_07.jpg](https://speckyboy.com/wp-content/uploads/2014/09/building_minimum_viable_products_spotify_07.jpg)
-
-
+![Spotify's MVP approach](../assets/spotify-mvp-approach-cake.jpg)
 
 ## MVP -> Earliest Lovable Product
 
@@ -89,7 +89,7 @@ The first release that customers will love, tell their friends about, and be wil
 
 
 
-## Defining your Early ____ Product
+## Defining your Early _______ Product
 
 After filling out one of a few [Experimentation Briefs](/plays/run-experiments#experimentation-brief) you have a set of experiments and the success criteria for each. Use your own judgment whether to bundle the experiments into an MLP or whether the experiments are so light and fast, that there is no need to build anything yet. e.g., *make a few phone calls*. 
 
@@ -101,19 +101,16 @@ After filling out one of a few [Experimentation Briefs](/plays/run-experiments#e
 
   
 
-  ### MLP Description & BACKLOG
+### MLP Description & backlog
 
-  Once you have your features for the MLP you can list the things needed to complete it. How will you test the business model and validate the user need without building too much?
-
+- Once you have your features for the MLP you can list the things needed to complete it. How will you test the business model and validate the user need without building too much?
 - Which [**Job-to-be-done**](/plays/jobs-to-be-done) is the MLP solving (the value proposition)?
-
 - The [**Business objective**](/plays/okr) and how to meassure success (OKRs)
-
 - **Backlog**: List of tasks
 
 
 
-### Examples of MLPs
+## Examples of MLPs
 **Google Docs**
 Google Docs was simple, but also complete. Docs did a great job at what it was primarily designed for, which is simplicity and real-time *collaboration*.
 
@@ -123,14 +120,10 @@ The first iteration was a screen where tapping anywhere took a *picture you coul
 
 
 
-### The motivation behind the MVP is still valid
+## The motivation behind the MVP is still valid
 - Build something small, because small things are predictable and inexpensive to test.
-
 - Get it into the market quickly, because real learning occurs only when real customers are using a real product.
-
 - Trash it if it’s a flop, or invest if it’s a seedling with potential.
-
-  
 
 
 
@@ -144,12 +137,17 @@ Your MVP should not be v0.1 of something complex, but v1.0 of something simple a
 
 
 
-### References
-* https://blog.asmartbear.com/slc.html
-* https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp
+## References
+* [I hate MVPs. So do your customers. Make it SLC instead.](https://blog.asmartbear.com/slc.html)
+* [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 
 
 
 ## Related plays
 
- [Run Experiments](/plays/run-experiments) 
+- [Run Experiments](/plays/run-experiments) 
+
+- [Validate your startup idea](/plays/validate-startup-idea)
+
+  
+

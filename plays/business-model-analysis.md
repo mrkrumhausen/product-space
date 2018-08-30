@@ -19,13 +19,6 @@ description: Use the business model canvas to understand the complete picture of
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 
 ---
 ## The Business Model Canvas

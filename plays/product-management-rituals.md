@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Product Management Rituals
+title: Product Team Rituals
 description: Follow this simple framework and you will have the energy to strategise about the future of the product.
 
 # Author box
@@ -19,16 +19,27 @@ description: Follow this simple framework and you will have the energy to strate
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 
 ---
+
+
+## What are product team rituals?
+
 Below is a list of team rituals that are beneficial for running a development team.
+
+...
+
+
+
+## Why have team rituals?
+
+....
+
+
+
+**NB: If you're kicking off a new project** then read the [project brief + project kickoff](/plays/project-brief) play first
+
+
 
 ## Update Product backlog and roadmap
 Make sure your quarterly roadmap is up to date and you have broken it down into smaller product or experiment briefs
@@ -136,7 +147,7 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 
 
 ## Related plays
-- [Dual-track scrum](plays/dual-track-scrum)
+- [Dual-track scrum](/plays/dual-track-scrum)
 
 
 

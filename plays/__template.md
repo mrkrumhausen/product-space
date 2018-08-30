@@ -29,7 +29,7 @@ page_nav:
 
 ---
 
-## TITLE
+## What is "something"
 Write your intro here
 
 ## Why “Do something”

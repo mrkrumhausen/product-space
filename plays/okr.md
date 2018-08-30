@@ -19,13 +19,6 @@ description: a goal-setting system that's been employed by the likes of Google, 
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
 
 ---
 
@@ -61,8 +54,15 @@ A simple two or three column template with Objectives and (key) Results
 Here are a few keys to what make OKRs work at Google:
 
 - Objectives are ambitious, and should feel somewhat uncomfortable
-- Key Results are measurable; they should be easy to grade with a number (at Google we use a 0–1.0 scale to grade each key result at the end of a quarter)
+
+- Key Results are measurable; they should be easy to
+
+  []:
+
+   grade with a number (at Google we use a 0–1.0 scale to grade each key result at the end of a quarter)
+
 - The “sweet spot” for an OKR grade is .6 — .7; if someone consistently gets 1.0, their OKRs aren’t ambitious enough. Low grades shouldn’t be punished; see them as data to help refine the next quarter’s OKRs.
+
 - OKRs are public; everyone in the company should be able to see what everyone else is working on (and how they did in the past)
 
 **Pro tip**: for details on how to run as well as some extra context, check [GV's guide to OKRs][gv-guide].

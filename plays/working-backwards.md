@@ -19,14 +19,6 @@ description: How amazon kicks of product development
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
-
 ---
 
 
@@ -40,6 +32,6 @@ Working backwards is a framework for how to think about product without lengthy 
 ## Concluding notes
 
 ## References
-[https://hitenism.com/amazon-working-backwards/](https://hitenism.com/amazon-working-backwards/)
+- [https://hitenism.com/amazon-working-backwards/](https://hitenism.com/amazon-working-backwards/)
 
 ## Related plays

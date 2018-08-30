@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Getting started
-description: ...
+description:
 
 # Author box
 <!-- author:
@@ -19,32 +19,33 @@ description: ...
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
+
 ---
 ## What is the Product Space 🚀
-A library of product management advice from different frameworks, blog posts, resources, books, products, and much more.
+The product space is a playbook of product management techniques and best practises. It consists of plays gathered from different sources incl. frameworks, talks, blog posts, resources and books.
 
-## Why playbook
+## What is a playbook?
 In American football, the situation on the field changes all the time. It’s impossible for a team to plan all their moves in advance — they have no clue how things are going to unfold. To cope with this uncertainty, teams use so-called playbooks which contain the team’s strategies and plays.
 
-The playbook contains hundreds of plays which worked well in the past and can help the team win the game.
-
 ## What is a play
-A play is an agreed upon set of actions the team takes in a given situation. It helps to have a shared understanding and a shared language, so everyone is on the same page.
+A play is an agreed upon set of actions the product team can choose in a given situation. It helps to have a shared understanding and a shared language, so everyone is on the same page.
 
+## How to contribute
+* [Play Format](/template.md)
+* [Contribution Guidelines](/CONTRIBUTING.md)
 
 ## Contributors
-- [Sebastian krumhausen](https://krumhausen.com)
+- [Sebastian krumhausen](https://krumhausen.com?utm_source=product-space&utm_medium=website)
 - Tina Siig
 
 ## Change log
-All notable changes to this project will be documented here. This project adheres to Semantic Versioning.
+All notable changes to this project will be documented here. This project adheres to [Semantic Versioning](https://semver.org).
+
+### [v0.0.2-alpha] - 2018-08-30
+- New play: mvp
+- New play: Validate startup idea
+- New play: Project brief
+- Updates to existing plays
 
 ### [v0.0.1-alpha] - 2018-08-14
 - First couple of plays

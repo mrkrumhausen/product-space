@@ -1,21 +1,41 @@
 ---
-play_number: ?
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
 title: Jobs to be done
+description: ...
+
+# Author box
+<!-- author:
+    title: About Sebastian
+    title_url: 'https://krumhausen.com'
+    external_url: true
+    description: Product Manager & Digital Strategist -->
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+
 ---
 
-# Jobs to be done
-*Jobs-to-be-done (JTBD) is a framework based on the idea that whenever users “hire” (i.e., use) a product, they do it for a specific “job” (i.e., to achieve a particular outcome).*
+## What is Jobs to be done
+Jobs-to-be-done (JTBD) is a framework based on the idea that whenever users “hire” (i.e., use) a product, they do it for a specific “job” (i.e., to achieve a particular outcome).
 
+## Why use JTBD?
 Rather than focusing on a list of features for a product, the JTBD framework forces designers to think about outcomes. It helps you understand that customers don’t buy products and services; they hire various solutions at various times to get a wide array of jobs done.
 
 When you see customers piecing together solutions themselves, these are great clues for innovation.
 
 
-### What isn’t a Job to be Done
+## What isn’t a Job to be Done
 - A big mistake is thinking of a Job to be Done as an activity or task. Examples include *store and retrieve music* or *listen to music*. These are not Jobs; rather, they are tasks and activities — which means they describe how you use a product or what you do with it
 
 
-### a better me
+## A better me
 Instead a Job to be Done describe the “better me.” It answers the question, “How are you better since you started using [product]?”
 
 *Upgrade your user, not your product. Don’t build better cameras — build better photographers*.
@@ -58,9 +78,15 @@ User stories can be broken down if needed:
 - *As a tea drinker, I want my tea in a mug so that I can pick it up*.
 - *As a tea drinker, I want my mug to have a handle so that I don’t burn my hands*.
 
-### References 
+
+## Concluding notes
+
+## Resources
 - https://www.nngroup.com/articles/personas-jobs-be-done/
 - https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
 - https://jtbd.info/how-might-we-describe-a-customer-job-65aa5b9a100e
 - https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
 - https://blog.intercom.com/using-job-stories-design-features-ui-ux/
+
+## Related plays
+-

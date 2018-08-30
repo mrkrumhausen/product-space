@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: The Product Space 🚀
-description: A Playbook of product management techniques. It's very much work in progress and I encourage you to critique and contribute ideas and suggestions
+description: A playbook of product management techniques. It's very much work in progress and I encourage you to review, critique and contribute with your ideas and suggestions
 buttons:
     - content: Let's get started
       url: '/getting-started'
@@ -56,5 +56,9 @@ grid_navigation:
       excerpt: How to build a simple, yet lovable and complete product
       cta: Read more
       url: '/plays/mvp'
+    - title: Validate Your Startup Idea
+      excerpt: Nothing is more frustrating than spending years on your idea just to notice it wasn’t any good in the first place.
+      cta: Read more
+      url: '/plays/validate-startup-idea'
 
 ---
