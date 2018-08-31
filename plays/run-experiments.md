@@ -67,11 +67,11 @@ Controlled experiments isolate the impact of the product change while controllin
 ## Different types of experiments
 Running online experiments is very cheap, so running them early in a discovery process is an advantage. Run a kill experiment as fast as possible to validate your idea without getting too attached to it.
 
-### Kill experiment
+### Will users buy it?
 
-The kill experiment focuses on one thing only: *Will users buy it?*
+This experiment focuses on one thing only: *Will users buy it?*
 
-To know if customers will buy it (use it), a kill experiment must follow certain principles to work:
+To know if customers will buy it (use it), the experiment must follow certain principles to work:
 
 1. Users have to believe the product/feature exists (users cannot know they are part of an experiment).
 1. Users have to commit **to buying** the product/feature (e.g., by giving their email or clicking a payment method).
@@ -79,6 +79,8 @@ To know if customers will buy it (use it), a kill experiment must follow certain
 Example: a simple website with minimal functionality, that mimics the full experience.
 
 You can start with a simple proof-of-concept experiment (PoC). These types of experiments are allowed to be low fidelity; You don’t need polished a design, and it’s okay to have some friction in the user journey. The point is not to test a flashy feature or idea. The point is to see if users do what we expect them to (measuring behavior).
+
+
 
 ### Fake door
 
@@ -93,8 +95,6 @@ The regular version of a product (called Control) is compared against a modified
 
 
 **Pro tip**: a couple of bigger tech companies have open sourced their internal systems for others to use. See Cloudera’s [Gertrude](https://github.com/cloudera/gertrude), Etsy’s [Feature](https://github.com/etsy/feature), and Facebook’s [PlanOut](http://facebook.github.io/planout/), for example.
-
-
 
 
 
