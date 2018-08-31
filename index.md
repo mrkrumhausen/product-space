@@ -16,12 +16,12 @@ buttons:
       external_url: true
 
 # Author box
-author:
+<!-- author:
     title: Sebastian Krumhausen
     title_url: 'https://krumhausen.com'
     external_url: true
     description: Product Manager & Digital Strategist
-    twitter: krumhausen
+    twitter: krumhausen -->
 
 # Grid navigation
 grid_navigation:
