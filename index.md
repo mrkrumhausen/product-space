@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: The Product Space 🚀
-description: A playbook of product management techniques. It's very much work in progress and I encourage you to review, critique and contribute with your ideas and suggestions
+description: The product space is a playbook of product management techniques and best practises for product development teams
 buttons:
     - content: Let's get started
       url: '/getting-started'
@@ -16,11 +16,12 @@ buttons:
       external_url: true
 
 # Author box
-<!-- author:
-    title: About Sebastian
+author:
+    title: Sebastian Krumhausen
     title_url: 'https://krumhausen.com'
     external_url: true
-    description: Product Manager & Digital Strategist -->
+    description: Product Manager & Digital Strategist
+    twitter: krumhausen
 
 # Grid navigation
 grid_navigation:
