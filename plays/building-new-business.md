@@ -24,13 +24,11 @@ micro_nav: true
 
 ---
 
-## Building a new business
-
 This is a model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one. The model is built on top of:
 
-- [Customer Development](customer-development), which is helpful when you don’t know the problem. It's a simple methodology and a process for **getting out of the building** and talking to potential customers, the market — before you start building anything.
+- [Customer Development][customer-development], which is helpful when you don’t know the problem. It's a simple methodology and a process for **getting out of the building** and talking to potential customers, the market — before you start building anything.
 
-- [Agile development](agile), which is helpful when you don’t know the solution.
+- [Agile development][agile], which is helpful when you don’t know the solution.
 
 While none of the individual ideas are new, the model brings them together in an effective way to give entrepreneurs a framework to work from.
 
@@ -42,7 +40,7 @@ The most common pitfall related with customer development is that teams do not u
 
 
 
-### 1) Discovery
+## 1) Discovery
 
 **Discover something people want!** The goal here is to reduce uncertainty by documenting assumptions and validating them by getting out of the building and talking to potential customers. Customer discovery and business case development starts at the same time and the two should inform one another. Learning should start at this stage - what can be tested without building anything? And how does this inform the assumptions in the business case?
 
@@ -136,17 +134,18 @@ P-M fit is an esoteric concept you only know you've achieved after you've achiev
 
 
 
-## Concluding notes
-
 
 
 ## Resources
 
-- Steve Blank - Customer Development
-- https://www.agilealliance.org/glossary/customer-development](https://www.agilealliance.org/glossary/customer-development)
+- Steve Blank's [Customer Development][customer-development] terminology from his book the "4 Steps to the Epiphany"
+
+- [Agile development][agile]
+
+- [https://www.agilealliance.org/glossary/customer-development](https://www.agilealliance.org/glossary/customer-development)
 
 
 
-[customer-development]: 	"Customer Development"
+[customer-development]: https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507	"Customer Development"
 [[agile]: 	"Agile development"
 
