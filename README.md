@@ -7,6 +7,12 @@ A playbook of product management techniques
 The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and are used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
 
 
+## Setting up locally
+You need to setup the local jekyll site in order or contribute to the product space. Here is a [guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site)
+
+0. Install Homebrew if you haven't
+1. Install Jekyll and other dependencies from the GitHub Pages gem `bundle install`
+2. Build your local Jekyll site `bundle exec jekyll serve`
 
 
 ## The plays
@@ -24,8 +30,9 @@ The Product Space give people plays they can apply to specific moments of the pr
 * [ ] (WIP) [Validate startup idea](/plays/validate-startup-idea.md)
 
 ### Building the right things
-* [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
+* [x] [Building a New Business](/plays/building-new-business.md)
 * [ ] (TODO) [Minimum ~~Viable~~ Lovable product](/plays/mvp.md): incl. adwords experiments
+* [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
 * [ ] (WIP) [Data-informed design](/plays/data-informed-design.md)
 
 ### Building
@@ -47,7 +54,6 @@ The Product Space give people plays they can apply to specific moments of the pr
 * Brainstorm Session
 * Content audit
 * GDPR ([inspo](https://www.hubspot.com/data-privacy/gdpr/hubspot-product-playbook))
-
 
 
 

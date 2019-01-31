@@ -40,6 +40,10 @@ Please review the [github repo](https://github.com/mrkrumhausen/product-space)
 ## Change log
 All notable changes to this project will be documented here. This project adheres to [Semantic Versioning](https://semver.org).
 
+### [v0.0.3-alpha] - 2019-01-31
+- New play: Building a New Business
+- Setting up locally instructions added to readme
+
 ### [v0.0.2-alpha] - 2018-08-30
 - New play: mvp
 - New play: Validate startup idea

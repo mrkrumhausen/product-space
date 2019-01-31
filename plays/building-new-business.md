@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Building a New Business
-description: a model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one.
+description: A model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one.
 
 # Author box
 <!-- author:
