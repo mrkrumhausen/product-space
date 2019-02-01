@@ -24,13 +24,13 @@ micro_nav: true
 
 ---
 
-This is a model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one. The model is built on top of:
+These 4 steps will minimise wasting your time, money and the risk of failure by developing your product, together with your customers from day one. The model is built on top of:
 
 - [Customer Development][customer-development], which is helpful when you don’t know the problem. It's a simple methodology and a process for **getting out of the building** and talking to potential customers, the market — before you start building anything.
 
 - [Agile development][agile], which is helpful when you don’t know the solution.
 
-While none of the individual ideas are new, the model brings them together in an effective way to give entrepreneurs a framework to work from.
+While none of the ideas presented below are new, the model brings them together in an effective way to give entrepreneurs a framework to work from.
 
 
 
@@ -76,9 +76,9 @@ And no, we don’t test for the viability of our proposed solution by selling it
 
 **Tools**
 
-- [ ] Business Model Canvas or similar such as Offering Vision Board
-- [ ] Assumption backlog
-- [ ] Interview guide based on assumption backlog
+- Business Model Canvas or similar such as Offering Vision Board
+- Assumption backlog
+- Interview guide based on assumption backlog
 
 **Potential outcome scenarios**
 
@@ -96,7 +96,7 @@ If, and only if, we can find significant signal we start to build it. This is wh
 
 
 
-## 3) Constantly re-evaluate your solution.
+## 3) Constantly re-evaluate your solution
 
 **Continuous Discovery and Delivery Cadance!** The goal here is to find “Product Market Fit”. Too often people slavishly deliver a roadmap of features. Instead the business needs to be prepared to change anything required to prove enough customers want the new service and can’t do without it.
 
@@ -122,7 +122,7 @@ It’s [never too early](https://blog.close.io/charge-your-users) to charge mone
 
 ## 4) Growth
 
-**Can we replicate selling the solution?** The goal here is to establish a highly iterative and data-led approach to growth. One that’s tightly interwoven with ongoing product development. Quite simply the traditional approach to marketing doesn’t work for early stage ventures so a rapid, iterative approach is required instead to find the messaging, channels and journeys that stick.
+**Can we replicate our early sales model?** The goal here is to establish a highly iterative and data-led approach to growth. One that’s tightly interwoven with ongoing product development. Quite simply the traditional approach to marketing doesn’t work for early stage ventures so a rapid, iterative approach is required instead to find the messaging, channels and journeys that stick.
 
 You are at Product-Market fit, if you have built a product that customers need and this has been validated by *high user* adoption or through a significant number of paid users, and to some degree adoption and retention are "running themselves." 
 
@@ -147,5 +147,5 @@ P-M fit is an esoteric concept you only know you've achieved after you've achiev
 
 
 [customer-development]: https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507	"Customer Development"
-[[agile]: 	"Agile development"
+[[agile]: https://www.agilealliance.org/agile101/	"Agile development"
 
