@@ -16,33 +16,50 @@ The Product Space give people plays they can apply to specific moments of the pr
 * [x] [OKRs](/plays/okr.md)
 
 ### Understanding and kickoff
+
+Why are we doing this? Do we know what we're building? Is this idea any good?
+
 * [ ] (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
 * [ ] (WIP) [Project Brief](/plays/project-brief.md)
 * [ ] (WIP) [Working Backwards](/plays/working-backwards.md)
-* [ ] (TODO) Design Sprint
+* [ ] Ideation process
 * [ ] (WIP) [Lean Product Plan](/plays/lean-product-plan.md)
 * [ ] (WIP) [Validate startup idea](/plays/validate-startup-idea.md)
+* [ ] Revenue estimation template
 
-### Building the right things
+### Build (the right things)
+
+What should we build first? What should we prioritise
+
 * [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
 * [ ] (TODO) [Minimum ~~Viable~~ Lovable product](/plays/mvp.md): incl. adwords experiments
+* [ ] (TODO) Design Sprint
 * [ ] (WIP) [Data-informed design](/plays/data-informed-design.md)
 
-### Building
-* [ ] (TODO) [Post-MVP](/plays/post-mvp.md) (incl. Trigger-model)
 * [ ] (TODO) [Jobs-to-be-done](/plays/jobs-to-be-done.md), (incl. user stories and Job Canvas: How does it fit with user stories?)
 * [ ] (TODO) [Product Roadmap](/plays/product-roadmap.md) (incl. prioritisation)
 
-### Optimising and growth
+### Launch
+
+- Product hunt launch?
+- 
+
+### Optimise and growth
+
+What comes after MVP? How to test if the product is working? Meassure success
+
+* [ ] (TODO) [Post-MVP](/plays/post-mvp.md) (incl. Trigger-model)
 * [ ] (TODO) Effective Google Ads campaigns
 * [ ] (TODO) SEO Guidelines
 * [ ] (WIP) [Pricing](/plays/pricing.md)
 * [ ] (TODO) FB organic and paid advertisement
 
+
+
 ## Ideas for plays
-* Revenue estimation template
-* Scaling SCRUM (SAFe, Scrum of Scrums, etc.)
-* Customer Journey Mapping
+* How to hire the right people?
+* Scaling SCRUM (SAFe, Scrum of Scrums, [NEXUS](https://www.scrum.org/resources/nexus-guide), etc.)
+* Customer Journey Mapping, CJM
 * Customer Journey Analytics
 * Brainstorm Session
 * Content audit
