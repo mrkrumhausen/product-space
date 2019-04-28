@@ -21,8 +21,17 @@ micro_nav: true
 # Page navigation
 
 ---
+## When to run: data informed design?
+
+
+
+Data informed design is a systematic approach to the development and evolution of products and services. Use data to inform your decisions instead of 
+
+
+
 ## What is data informed design
-It’s a systematic approach to the development and evolution of products and services.
+
+
 
 The difference between data-driven and data-informed is subtle but important in my opinion, and data-informed is perfectly depicted by this Venn diagram, which I borrowed and tweaked from [Josh Porter](http://bokardo.com/archives/growing-10-100-1000-users/):
 
@@ -35,6 +44,12 @@ Decisions for design should be informed by data. Data can be anything from conve
 
 - **Quantitative data** tells you WHAT is or isn’t happening. Analytics and data show us what people do on their own, but it doesn’t tell us about the users context, motivations, and intent.
 - **Qualitative data** helps you better understand WHY it is or isn’t happening.
+
+
+
+Quantitative data is a good tool for understanding what is happening but it won't tell you why. For that, you often need to turn to qualitative data (talking to people). You can ask people with in-context small surveys and similar techniques.
+
+ 
 
 
 
@@ -113,6 +128,10 @@ Good product design comes from striking the right balance between data, empathy 
 ## Resources
 
 [Data-driven vs. data-informed design in enterprise products](https://medium.com/designing-atlassian/data-driven-vs-data-informed-design-in-enterprise-products-538749b1b4eb)
+
+<https://www.lukew.com/ff/entry.asp?1999> 
+
+
 
 ## Related plays
 

@@ -22,7 +22,7 @@ micro_nav: true
 
 ---
 
-## What are objectives and key results?
+## When to run: Objectives and key results?
 Objectives and key results (usually known as ‘OKRs’) are used for setting simple, easily measurable goals within organisations and teams. OKRs are not only great for tracking the success of a project, but the process of setting them helps teams clarify what’s important, and why.
 
 * **Objectives**: The “WHAT” you want to accomplish.
@@ -82,6 +82,8 @@ Don't think of OKRs as a proxy for performance reviews for individual employees.
 - [GV's guide to OKRs][gv-guide]
 - [re:Work with Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 - [TED talk - Why the secret to success is setting the right goals - John Doerr](https://www.youtube.com/watch?v=L4N1q4RNi9I)
+- https://medium.com/startup-tools/okrs-5afdc298bc28
+- 
 
 ## Related plays
 

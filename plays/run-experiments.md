@@ -62,7 +62,9 @@ The outside world often has a much larger effect on metrics than product changes
 
 Controlled experiments isolate the impact of the product change while controlling for the aforementioned external factors.
 
+**Pro tip**: The [Sample Size Calculator](http://www.evanmiller.org/ab-testing/sample-size.html) gives you a way to determine what size audience you need for your tests.
 
+ 
 
 ## Different types of experiments
 Running online experiments is very cheap, so running them early in a discovery process is an advantage. Run a kill experiment as fast as possible to validate your idea without getting too attached to it.

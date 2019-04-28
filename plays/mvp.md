@@ -29,9 +29,13 @@ page_nav:
 
 ---
 
-## Why Minimum Viable Product?
+## When to run: Minimum Viable Product?
 
-MVPs are great for startups and product teams because they maximize validated learning about customers as quickly as possible.
+
+
+## Why MVP?
+
+Minimum Viable Products, MVPs are great for startups and product teams because they maximize validated learning about customers as quickly as possible.
 
 Many projects fail badly because they do Big Bang delivery (build the thing until 100% done and deliver at the end). Agile is presented as a solution, but customers cannot use a half build car. Customers don't care if you build something using waterfall or agile.
 
@@ -111,11 +115,23 @@ After filling out one of a few [Experimentation Briefs](/plays/run-experiments#e
 
 
 ## Examples of MLPs
+[Paul Bucheit](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)’s advice remains invaluable to anyone building a product today: 
+
+> Pick three key attributes or features, get those very, very right and forget about everything else.
+
+**iPod**
+The original iPod was: 1) small enough to fit in your pocket, 2) had enough storage to hold many hours of music and 3) easy to sync with your Mac
+
+**Gmail**
+By focusing on 1) search, 2) an easy-to-use interface, and 3) a whopping gigabyte of free email storage, Gmail blew past anything else available at the time. 
+
 **Google Docs**
-Google Docs was simple, but also complete. Docs did a great job at what it was primarily designed for, which is simplicity and real-time *collaboration*.
+Google Docs was simple, but also complete. Docs did a great job at what it was primarily designed for, which is 1) simplicity and 2) real-time *collaboration* 
 
 **Snapchat**
 The first iteration was a screen where tapping anywhere took a *picture you could then send to someone, at which time it disappeared*. No video, no filters, no social networking, no commenting and no storage — Simple, yet Lovable and Complete
+
+
 
 
 
@@ -129,7 +145,11 @@ The first iteration was a screen where tapping anywhere took a *picture you coul
 
 ## Concluding notes
 
-Your MVP should not be v0.1 of something complex, but v1.0 of something simple and great. Products that do less but are loved, are more successful than products which have more features
+Your MVP should not be v0.1 of something complex, but v1.0 of something simple and great. 
+
+By focusing on only a few core features in the first version, you are forced to find the true essence and value of the product. If your product needs "everything" in order to be good, then it's probably not very innovative (though it might be a nice upgrade to an existing product). Put another way, if your product is great, it doesn't need to be good.
+
+Products that do less but are loved, are more successful than products which have more features
 
 - **Simple**. Customers accept simple products every day
 - **Lovable**. People have to want to use it.
@@ -140,6 +160,7 @@ Your MVP should not be v0.1 of something complex, but v1.0 of something simple a
 ## References
 * [I hate MVPs. So do your customers. Make it SLC instead.](https://blog.asmartbear.com/slc.html)
 * [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+* http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html
 
 
 
