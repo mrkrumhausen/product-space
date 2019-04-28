@@ -25,6 +25,10 @@ buttons:
 
 # Grid navigation
 grid_navigation:
+    - title: Building a New Business
+      excerpt: A model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one.
+      cta: Read more
+      url: '/plays/building-new-business'
     - title: Project Brief
       excerpt: Use the brief at the outset of a project or product cycle, when a development team needs to rally behind a common goal and share a mental model of the problem they are trying to solve.
       cta: Read more
