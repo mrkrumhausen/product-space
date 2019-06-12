@@ -11,4 +11,4 @@ Having a consistent format to document plays is important for a working play boo
 - Use the following default.md file as a template
 - Keep descriptions short and simple, but descriptive.
 
-Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+Your contributions are always welcome!  Thank you for your suggestions! :smiley:pl

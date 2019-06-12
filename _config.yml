@@ -1,48 +1,24 @@
-# Theme settings
-doks:
-    baseurl:
-    color_theme: # Available themes: blue (default), green, purple, red and yellow
-    header:
-        logo:
-            text: The Product Space 🚀
-            image:
-        nav:
-            - item_name: Plays
-              item_url: '/plays'
-            - item_name: Tools
-              item_url: '/tools'
-    footer:
-        content:
-            logo:
-                text: The Product Space
-                image:
-            copyright: Copyright &copy; 2018. <a href="https://krumhausen.com/">Krumhausen Consulting</a><br> All rights reserved.
-        social_list:
-            - network_name: github
-              profile_url: 'https://github.com/mrkrumhausen/product-space'
-            - network_name: linkedin
-              profile_url: 'https://linkedin.com/in/krumhausen/'
-        #     - network_name: twitter
-        #       profile_url: '#'
-        #     - network_name: instagram
-        #       profile_url: '#'
-        #     - network_name: youtube
-        #       profile_url: '#'
-    google_analytics:
-        tracking_code: UA-10127534-3
-    comments:
-        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+# Site settings.
+title: TheProduct.Space
+description: The product space is a playbook of product management techniques and best practises for product development teams
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://theproduct.space"
 
-# SASS settings
-sass:
-    sass_dir: ./doks-theme/_sass
-    style: :compressed
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
-# Jekyll settings
-layouts_dir: ./doks-theme/_layouts
-includes_dir: ./doks-theme/_includes
-exclude: [ 'README.md', 'CHANGELOG.md' ]
-permalink: /:title/
-plugins:
-    - jekyll-seo-tag
-    - jekyll-sitemap
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "About":
+    - "/about"
+  "Contribute":
+    - "//github.com/mrkrumhausen/product-space"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
+# Google Analytics Tracking
+ga_tracking: UA-10127534-3

@@ -1,86 +1,68 @@
-# 	The Product Space 🚀
-A playbook of product management techniques
+<p align="right">
+    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://travis-ci.com/pmarsceill/just-the-docs"><img src="https://travis-ci.com/pmarsceill/just-the-docs.svg?branch=master" alt="Build status"></a>
+</p>
+<br><br>
+<p align="center">
+    <h1 align="center">Just the Docs</h1>
+    <p align="center">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
+    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <br><br><br>
+</p>
 
+![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
 
+## Installation
 
-## Intro
-The Product Space give people plays they can apply to specific moments of the product development workflow. Some of these plays originate from companies like Google, Facebook, Amazon, Intercom or Basecamp and are used industry-wide, others have been developed by individual practitioners, tried and tested in the field and represented here.
+Add this line to your Jekyll site's Gemfile:
 
+```ruby
+gem "just-the-docs"
+```
 
-## Setting up locally
-You need to setup the local jekyll site in order or contribute to the product space. Here is a [guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site)
+And add this line to your Jekyll site's `_config.yml`:
 
-0. Install Homebrew if you haven't
-1. Install Jekyll and other dependencies from the GitHub Pages gem `bundle install`
-2. Build your local Jekyll site `bundle exec jekyll serve`
+```yaml
+theme: just-the-docs
+```
 
+And then execute:
 
-## The plays
-### Team management
-* [x] [Dual Track Scrum](/plays/dual-track-scrum.md)
-* [ ] (WIP) [Product Management Rituals](/plays/product-management-rituals.md)
-* [x] [OKRs](/plays/okr.md)
+    $ bundle
 
-### Understanding and kickoff
+Or install it yourself as:
 
-Why are we doing this? Do we know what we're building? Is this idea any good?
+    $ gem install just-the-docs
 
-* [ ] (TODO) [Business Model Analysis](/plays/business-model-analysis.md)
-* [ ] (WIP) [Project Brief](/plays/project-brief.md)
-* [ ] (WIP) [Working Backwards](/plays/working-backwards.md)
-* [ ] Ideation process
-* [ ] (WIP) [Lean Product Plan](/plays/lean-product-plan.md)
-* [ ] (WIP) [Validate startup idea](/plays/validate-startup-idea.md)
-* [ ] Revenue estimation template
+## Usage
 
-### Build (the right things)
+[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
 
-What should we build first? What should we prioritise
+## Contributing
 
-### Building the right things
-* [x] [Building a New Business](/plays/building-new-business.md)
-* [ ] (TODO) [Minimum ~~Viable~~ Lovable product](/plays/mvp.md): incl. adwords experiments
-* [ ] (WIP) [Run Experiments](/plays/run-experiments.md)
-* [ ] (WIP) [Data-informed design](/plays/data-informed-design.md)
+Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-* [ ] (TODO) [Jobs-to-be-done](/plays/jobs-to-be-done.md), (incl. user stories and Job Canvas: How does it fit with user stories?)
-* [ ] (TODO) [Product Roadmap](/plays/product-roadmap.md) (incl. prioritisation)
+### Submitting code changes:
 
-### Launch
+- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
+- Ensure all CI tests pass
+- Await code review
+- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
 
-- Product hunt launch?
--
+### Design and development principles of this theme:
 
-### Optimise and growth
+1. As few dependencies as possible
+2. No build script needed
+3. First class mobile experience
+4. Make the content shine
 
-What comes after MVP? How to test if the product is working? Meassure success
+## Development
 
-* [ ] (TODO) [Post-MVP](/plays/post-mvp.md) (incl. Trigger-model)
-* [ ] (TODO) Effective Google Ads campaigns
-* [ ] (TODO) SEO Guidelines
-* [ ] (WIP) [Pricing](/plays/pricing.md)
-* [ ] (TODO) FB organic and paid advertisement
+To set up your environment to develop this theme, run `bundle install`.
 
+Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
+When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
-## Ideas for plays
-* How to hire the right people?
-* Scaling SCRUM (SAFe, Scrum of Scrums, [NEXUS](https://www.scrum.org/resources/nexus-guide), etc.)
-* Customer Journey Mapping, CJM
-* Customer Journey Analytics
-* Brainstorm Session
-* Content audit
-* GDPR ([inspo](https://www.hubspot.com/data-privacy/gdpr/hubspot-product-playbook))
+## License
 
-
-
-## Inspiration
-Some of the companies that openly share how they develop product are:
-* [Atlassian](https://www.atlassian.com/team-playbook/plays)
-* [Intercom on Product Management](https://www.intercom.com/books/product-management)
-* [Basecamp / 37signals - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf)
-
-
-## Contributing to The Product Space
-* [Play Format](/plays/_template.md)
-* [Contribution Guidelines](/CONTRIBUTING.md)
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
