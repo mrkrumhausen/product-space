@@ -1,15 +1,23 @@
 
 # SCRUM
 
+## What is Scrum?
+
+Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 
 
-## The Agile Manifesto 
 
-We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value: 
+## The Sprint
 
-Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan 
+A sprint is the actual time period when the scrum team works together to finish an increment. Two weeks is the typical length for a sprint
 
-That is, while there is value in the items on the right, we value the items on the left more. 
+
+
+## Scrum Ceremonies or Events
+
+Scrum is structured to help teams naturally adapt to changing conditions and user requirements, with re-prioritization built into the process and short release cycles so your team can constantly learn and improve.
+
+Below is a list of all the key ceremonies a scrum team might partake in. All the events — from planning to retrospective — happen during the sprint.
 
 
 
@@ -17,9 +25,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 
 
-## Scrum Events
-
-### Sprint planning
+### 1 Sprint planning
 
 Figure out how we actually do the work and agree the order we’ll work on it. It’s an opportunity to talk through the tasks required, challenge any previous assumptions, including estimates, and check that stories and acceptance criteria are really ready for development.
 
@@ -60,14 +66,16 @@ Figure out how we actually do the work and agree the order we’ll work on it. I
 
 
 
-### Daily scrum / Standup
-**Attendees**: The Scrum Team, including shared resources and any interested parties: however, only Scrum Team members provide updates 
+### 2 Daily scrum / Standup
+**Attendees**: The Scrum Team, including shared resources and any interested parties: however, only Scrum Team members provide updates. 
 
-**Duration**: 15 minutes
+**Duration**: 15 minutes. 
 
 **Frequency**: Every day of the Sprint
 
-**Objective**: Inspect and Adapt to further progress toward the Sprint Goal 
+**Objective**: Inspect and adapt to further progress toward the Sprint Goal 
+
+This meeting is also called a "daily stand-up" emphasizing that it needs to be a quick one. The stand up is the time to voice any concerns you have with meeting the sprint goal or any blockers
 
 
 
@@ -83,7 +91,7 @@ After the time-boxed Scrum, Team members can continue detailed discussions to an
 
 
 
-### Grooming / Backlog refinement (optional)
+### 3 Grooming / Backlog refinement (optional)
 
 The objective of the *Backlog refinement meeting or Grooming session* is to get enough of the product backlog ready to comfortably populate the next sprint backlog. 
 
@@ -115,7 +123,7 @@ The objective of the *Backlog refinement meeting or Grooming session* is to get 
 
 
 
-### Sprint demo / review
+### 4 Sprint demo / review
 
 The sprint demo is invaluable for keeping stakeholders up to speed with the progress of product development. It allows them to feedback and suggest improvements that can added to the product backlog to maximise value.
 
@@ -159,7 +167,7 @@ If your team is sending out release notes
 
 
 
-### Retro
+### 5 Retro
 Run a retrospective at the end of a sprint. It is a forum for the team to come together and discuss successes, failures, learnings, and note down anything that will be useful in the future. It's a cathartic exercise designed to help teams and companies continuously learn and improve.
 
 *NB It's worth nothing that retrospectives are not an appropriate platform for personal feedback. This should be done separately in one-to-one sessions*.
@@ -178,19 +186,19 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 
 #### Structure
 
-**Continue: Things that went well**
+**Continue**: Things that went well
 
 - What went well?
   Why did it go well?
   		How do we keep encouraging that?
 
-**Stop: Things that didn't go so well**
+**Stop**: Things that didn't go so well
 
 - What went badly?
   Why did it go badly?
   		How do we avoid repeating that?
 
-**Start:**
+**Start**:
 
 - What should we start doing?
 
@@ -208,7 +216,7 @@ Run a retrospective at the end of a sprint. It is a forum for the team to come t
 
 
 
-### BONUS: Weekly recap
+### BONUS: Weekly recap email
 
 Send email digest of the previous week to our team and advisors.
 
@@ -253,9 +261,12 @@ Make sure your quarterly roadmap is up to date and you have broken it down into 
 ## Concluding notes
 
 ## Resources
+- [https://www.scrumguides.org](https://www.scrumguides.org)
 - [https://manifesto.co.uk/scrum-practice-sprint-demo/](https://manifesto.co.uk/scrum-practice-sprint-demo/)
 - [https://manifesto.co.uk/scrum-sprint-planning/](https://manifesto.co.uk/scrum-sprint-planning/)
 - [https://manifesto.co.uk/agile-concepts-product-backlog/](https://manifesto.co.uk/agile-concepts-product-backlog/)
+- [https://www.atlassian.com/agile/scrum](https://www.atlassian.com/agile/scrum)
+- https://www.scrum.org/
 
 
 

@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Building a New Business
-description: A model with 4 steps to minimise wasting your time and money and minimising the risk of failure by developing your product, together with your customers from day one.
+description: An innovation model to minimise wasting your time, money and the risk of failure by developing your product, together with your customers from day one.
 
 # Author box
 <!-- author:
@@ -19,9 +19,6 @@ description: A model with 4 steps to minimise wasting your time and money and mi
 micro_nav: true
 
 # Page navigation
-
-
-
 ---
 
 These 4 steps will minimise wasting your time, money and the risk of failure by developing your product, together with your customers from day one. The model is built on top of:
@@ -147,5 +144,5 @@ P-M fit is an esoteric concept you only know you've achieved after you've achiev
 
 
 [customer-development]: https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507	"Customer Development"
-[[agile]: https://www.agilealliance.org/agile101/	"Agile development"
+[agile]: https://www.agilealliance.org/agile101/	"Agile development"
 
