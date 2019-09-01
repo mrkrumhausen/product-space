@@ -1,38 +1,24 @@
 ---
 # Page settings
 layout: default
-keywords:
-comments: false
-
-# Hero section
-title: OKRs - Objectives and Key Results
-description: a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
-
-# Author box
-<!-- author:
-    title: About Sebastian
-    title_url: 'https://krumhausen.com'
-    external_url: true
-    description: Product Manager & Digital Strategist -->
-
-# Micro navigation
-micro_nav: true
-
-# Page navigation
+title: OKRs
+description: Objectives and Key Results: a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
+nav_order:
 
 ---
+# OKR
+Objectives and Key Results: a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
+{: .fs-6 .fw-300 }
 
-## When to run: Objectives and key results?
+## When to run
 Objectives and key results (usually known as ‘OKRs’) are used for setting simple, easily measurable goals within organisations and teams. OKRs are not only great for tracking the success of a project, but the process of setting them helps teams clarify what’s important, and why.
 
 * **Objectives**: The “WHAT” you want to accomplish.
 * **Key Results**: The “HOW” you’re going to get that done.
 
 
-
 ## Why OKRs?
 OKRs provide a way of ensuring that the most important things are being worked on. They also serve as a way of looking back and evaluating successes and failures — useful for setting future goals, and seeing where teams might need extra help.
-
 
 
 ## OKR template
@@ -42,11 +28,9 @@ A simple two or three column template with Objectives and (key) Results
 * **Key Results**: How are you going to get that done?
 
 
-
 *Example:*
 
 ![Sure OKR example](../assets/okr-example-sure.png)
-
 
 
 ## How to use OKRs
@@ -83,7 +67,7 @@ Don't think of OKRs as a proxy for performance reviews for individual employees.
 - [re:Work with Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 - [TED talk - Why the secret to success is setting the right goals - John Doerr](https://www.youtube.com/watch?v=L4N1q4RNi9I)
 - https://medium.com/startup-tools/okrs-5afdc298bc28
-- 
+-
 
 ## Related plays
 

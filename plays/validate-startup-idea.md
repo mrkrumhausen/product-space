@@ -86,7 +86,7 @@ a problem worth solving). Anyway, often they already pay something to someone at
 
 
 
-### . Effort
+### 5. Effort
 
 1. How much cash will I have at risk?
 2. How much time will it consume?

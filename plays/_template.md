@@ -1,45 +1,20 @@
 ---
 # Page settings
 layout: default
-keywords:
-comments: false
-
-# Hero section
-title: PLAY TITLE
-description: PLAY DESCRIPTION
-
-# Author box
-<!-- author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description -->
-
-# Micro navigation
-micro_nav: true
-
-# Page navigation
-page_nav:
-    prev:
-        content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
-
+title:
+description:
+nav_order:
 ---
+# Play Title
+excerp
+{: .fs-6 .fw-300 }
 
-## When to run: <the play>
+## When to run
+Define the situation when you should run this play. Provide a high-level description
 
- Define the situation when you should run this play
+## Why
 
-Provide a high-level description
-
-
-
-## Why do <the play>
-
-## CONTENT HERE!
+## play content
 Outline the steps of the play. What repeatable actions do you do to run this play.
 
 Remember to include **pro tips**
