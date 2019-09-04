@@ -2,7 +2,7 @@
 # Page settings
 layout: default
 title: OKRs
-description: Objectives and Key Results: a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
+description: Objectives and Key Results - a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals
 nav_order:
 
 ---
